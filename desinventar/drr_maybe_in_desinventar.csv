@@ -1,0 +1,546 @@
+S.No.,drr_id,District,VDC/Municipality,Ward No.,Incident Place,Incident Date,Incident,Death Male,Death Female,Death Unknown,Total Death,Missing People,Affected Family,Estimated Loss,Injured,Govt. Houses Fully Damaged,Govt. Houses Partially Damaged,Private House Fully Damaged,Private House Partially Damaged,Displaced Male(N/A),Displaced Female(N/A),Property Loss,No. of Displaced Family,Cattles Loss,Displaced Shed,Source,Remarks
+11737,10.0,Khotang,Halesituwachung Municipality,,,2018-01-02,Fire,0,0,0,0,0,13,51115000.0,0,0,0,4,6,0,0,0,0,0,0,Nepal Police,Magam Rai
+11738,11.0,Khotang,Halesituwachung Municipality,8.0,,2018-01-02,Fire,0,0,0,0,0,1,140000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Tank BK
+11757,30.0,Saptari,Khadak Municipality,8.0,,2018-01-05,Cold Wave,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,DAO Saptari,Mansharu Chaudhary
+11771,44.0,Saptari,Krishnasawaran Rural Municipality,4.0,,2018-01-06,Cold Wave,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,DAO Saptari,Lakhan Thakur
+11781,54.0,Rautahat,Paroha Municipality,9.0,Rampurkham,2018-01-07,Cold Wave,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,DAO Rautahat,Marcheya Devi Patel
+11782,55.0,Rautahat,Paroha Municipality,9.0,Gigdamba,2018-01-07,Cold Wave,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,DAO Rautahat,Sekh Samim
+11783,56.0,Saptari,Tilathikoiladi Rural Municipality,4.0,,2018-01-07,Cold Wave,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,DAO Saptari,Narayan Mukhiya
+11784,57.0,Saptari,Kanchanrup Municipality,2.0,,2018-01-07,Cold Wave,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,DAO Saptari,Berchan Sekh
+11785,58.0,Saptari,Khadak Municipality,7.0,,2018-01-07,Cold Wave,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,DAO Saptari,Prem Bahadur Majhi
+11787,60.0,Khotang,Halesituwachung Municipality,10.0,,2018-01-07,Fire,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Akhule Forest
+11808,81.0,Tanahu,Vyas Municipality,8.0,,2018-01-09,Fire,0,0,0,0,0,1,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Gajendra Gurung
+11811,84.0,Rautahat,Gujara Municipality,7.0,Pratpur,2018-01-09,Cold Wave,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,DAO Rautahat,Phul Kumari Devi
+11812,85.0,Rautahat,Durgabhagawati Rural Municipality,5.0,,2018-01-09,Cold Wave,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,DAO Rautahat,Sakeli Devi Yadav
+11823,96.0,Dolpa,Mudkechula Rural Municipality,9.0,,2018-01-10,Fire,0,0,0,0,0,9,23144000.0,4,0,0,9,0,0,0,0,0,0,0,Nepal Police,Surya Budha
+11849,122.0,Rautahat,Madhavnarayan Municipality,4.0,,2018-01-11,Cold Wave,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,"DAO, Rautahat",Rekha Kumari Yadhav
+11851,124.0,Siraha,Anarma Rural Municipality,3.0,,2018-01-11,Cold Wave,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,DAO. Siraha,Kari Yadhav
+11852,125.0,Siraha,Dhangadhimai Municipality,13.0,,2018-01-11,Cold Wave,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,"DAO, Siraha",Jibache Mukhiya
+11853,126.0,Saptari,Hanumannagarkankalini Municipality,1.0,,2018-01-11,Cold Wave,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,DAO Saptari,Shanti Devi Yadav
+11854,127.0,Saptari,Surunga Municipality,1.0,,2018-01-11,Cold Wave,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,,Ambar Bdr Pulami
+11855,128.0,Saptari,Chhinnamasta Rural Municipality,2.0,,2018-01-11,Cold Wave,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,DAO Saptari,SaroDevi Mukhiya
+11856,129.0,Saptari,Chhinnamasta Rural Municipality,2.0,,2018-01-11,Cold Wave,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,DAO Saptari,Saraswati Devi Shah
+11857,130.0,Saptari,Hanumannagarkankalini Municipality,,,2018-01-11,Cold Wave,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,"DAO, Saptari",Dundi Raj Pokharel
+11862,135.0,Kathmandu,Kathmandu Metropolitan City,,,2018-01-12,Fire,0,0,0,0,0,1,2887000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Bhajan Mandali
+11863,136.0,Kathmandu,Nagarjun Municipality,3.0,,2018-01-12,Fire,0,0,0,0,0,1,65000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,APF Halchok
+11891,164.0,Dhanusha,Mukhiyapattimusaharmiya Rural Municipality,5.0,,2018-01-13,Fire,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sangita Devi Yadhav
+11892,165.0,Dhanusha,Laxminiya Rural Municipality,2.0,,2018-01-13,Fire,0,0,0,0,0,0,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Manisha Mandal
+11896,169.0,Saptari,Rupani Rural Municipality,8.0,,2018-01-13,Cold Wave,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,"DAO, Saptari",Shivam Paswan
+11897,170.0,Saptari,Kanchanrup Municipality,3.0,,2018-01-13,Cold Wave,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,"DAO, Saptari",Kaliya Devi Sada
+11898,171.0,Saptari,Surunga Municipality,10.0,,2018-01-13,Cold Wave,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,"DAO, Saptari",Buddhilal Mukhiya
+11899,172.0,Saptari,Tirahut Rural Municipality,4.0,,2018-01-13,Cold Wave,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,"DAO, Saptari",Jaleshwori Saha
+11910,183.0,Siraha,Siraha Municipality,,,2018-01-14,Cold Wave,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,"DAO, Siraha",Kari Yadhav
+11920,193.0,Udayapur,Rautamai Rural Municipality,1.0,,2018-01-15,Fire,0,0,0,0,0,5,1700000.0,0,0,0,5,0,0,0,0,0,0,0,Nepal Police,Ran Bdr. BK
+11924,197.0,Rautahat,Gaur Municipality,7.0,,2018-01-16,Cold Wave,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,"DAO, Rautahat",Arbind Dube
+11925,198.0,Rautahat,Garuda Municipality,5.0,,2018-01-16,Cold Wave,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,"DAO, Rautahat",Teja Thakur
+11934,207.0,Mahottari,Gaushala Municipality,11.0,,2018-01-17,Fire,0,0,0,0,0,1,541000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Ram Chandra Mahato
+11976,249.0,Bhaktapur,Madhyapurthimi Municipality,5.0,,2018-01-23,Fire,0,0,0,0,0,1,100000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Nawaraj Kaspal
+11986,259.0,Taplejung,Phungling Municipality,5.0,,2018-01-23,Fire,0,0,0,0,0,4,1508500.0,0,0,0,4,0,0,0,0,0,0,0,Nepal Police,Kalpana Khawas
+12004,277.0,Humla,Sarkegad Rural Municipality,7.0,,2018-01-27,Fire,0,0,0,0,0,12,,0,0,0,12,0,0,0,0,0,0,0,Nepal Police,Karki Gaun
+12006,279.0,Rolpa,Sunil Smriti Rural Municipality,1.0,,2018-01-27,Fire,0,0,0,0,0,1,,1,0,0,7,0,0,0,0,0,4,0,Nepal Police,Nerema Gharti
+12008,281.0,Bhaktapur,Changunarayan Municipality,1.0,,2018-01-27,Fire,0,0,0,0,0,1,300000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Bal Bahadur Ale
+12058,331.0,Kathmandu,Nagarjun Municipality,1.0,,2018-02-03,Fire,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Forest
+12086,359.0,Baitadi,Dasharathchand Municipality,6.0,,2018-02-06,Fire,0,0,0,0,0,2,,0,0,0,1,1,0,0,0,0,0,0,Nepal Police,Dilip Singha Pela
+12089,362.0,Bhaktapur,Changunarayan Municipality,2.0,,2018-02-06,Fire,0,0,0,0,0,1,1000000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Rajesh Mochamarshi
+12094,367.0,Pyuthan,Sarumarani Rural Municipality,2.0,,2018-02-07,Fire,0,0,0,0,0,4,1580000.0,0,0,0,4,0,0,0,0,0,0,0,Nepal Police,Nim Bdr. Darlami
+12105,378.0,Pyuthan,Airawati Rural Municipality,4.0,,2018-02-08,Fire,0,0,0,0,0,7,,0,0,0,7,0,0,0,0,0,0,0,Nepal Police,Bom Bdr. Pun
+12123,396.0,Panchthar,Phidim Municipality,1.0,,2018-02-09,Fire,0,0,0,0,0,1,1000000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Surya Nerula
+12130,403.0,Rasuwa,Naukunda Rural Municipality,5.0,,2018-02-10,Fire,0,3,0,3,0,2,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Mangali Maya Moktan
+12147,420.0,Saptari,Hanumannagarkankalini Municipality,5.0,,2018-02-12,Fire,0,0,0,0,0,1,250000.0,0,0,0,1,0,0,0,0,0,2,1,Nepal Police,Rasid Mansoori
+12148,421.0,Saptari,Shambhunath Municipality,4.0,,2018-02-12,Fire,0,0,0,0,0,1,1700000.0,0,0,0,1,0,0,0,0,0,14,1,Nepal Police,Mahomod Jaldar
+12183,456.0,Kathmandu,Kathmandu Metropolitan City,12.0,,2018-02-17,Fire,1,0,0,1,0,2,4000000.0,1,0,0,0,2,0,0,0,0,0,0,Nepal Police,Jivankaji Shrestha
+12184,457.0,Kathmandu,Kathmandu Metropolitan City,,,2018-02-17,Fire,0,0,0,0,0,1,100000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Raju Subedi
+12199,472.0,Bhaktapur,Madhyapurthimi Municipality,3.0,,2018-02-20,Fire,0,0,0,0,0,1,300000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Pradhunnar Silawal
+12210,483.0,Khotang,Rawa Besi Rural Municipality,3.0,,2018-02-21,Fire,0,0,0,0,0,1,1256000.0,1,0,0,1,0,0,0,0,0,0,0,Nepal Police,Ratnamaya Sarki
+12239,512.0,Bhaktapur,Bhaktapur Municipality,2.0,,2018-02-25,Fire,0,0,0,0,0,1,150000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Hari Govinda Swami
+12244,517.0,Udayapur,Triyuga Municipality,3.0,,2018-02-25,Fire,0,0,0,0,0,1,100000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Bishnu Maya Basnet
+12251,524.0,Kathmandu,Kathmandu Metropolitan City,28.0,,2018-02-26,Fire,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,NIC Education Consultancy
+12254,527.0,Kathmandu,Kathmandu Metropolitan City,18.0,,2018-02-27,Fire,0,0,0,0,0,1,1000000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Puri Surgical Equipment Supplier
+12255,528.0,Kathmandu,Kathmandu Metropolitan City,12.0,,2018-02-27,Fire,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sabi Tamang
+12256,529.0,Lalitpur,Lalitpur Metropolitan City,23.0,,2018-02-27,Fire,1,0,0,1,0,2,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Min Bdr Maharjan
+12271,544.0,Humla,Tajakot Rural Municipality,1.0,,2018-03-02,Fire,0,0,0,0,0,30,14692980.0,0,0,0,30,0,0,0,0,0,6,0,Nepal Police,Ghatwan Gaun
+12272,545.0,Banke,Khajura Rural Municipality,6.0,,2018-03-02,Fire,0,0,0,0,0,2,1190000.0,0,0,0,2,0,0,0,0,0,0,0,Nepal Police,Joti Kala BK
+12287,560.0,Kapilbastu,Shivraj Municipality,11.0,,2018-03-04,Fire,0,0,0,0,0,2,300000.0,0,0,0,1,0,0,0,0,0,0,1,Nepal Police,Rajesh Kumal
+12318,591.0,Pyuthan,Pyuthan Municipality,1.0,,2018-03-06,Fire,0,0,0,0,0,6,,0,0,0,6,0,0,0,0,0,1,6,Nepal Police,Sanjaya JC
+12326,599.0,Saptari,Shambhunath Municipality,1.0,,2018-03-06,Fire,0,0,0,0,0,1,6000000.0,0,0,0,0,0,0,0,0,0,0,1,Nepal Police,Guneshwor Shah
+12346,619.0,Parsa,Birgunj Metropolitan City,16.0,,2018-03-07,Fire,0,0,0,0,0,1,800000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Ramaashis Mallik
+12347,620.0,Parsa,Birgunj Metropolitan City,16.0,,2018-03-07,Fire,0,0,0,0,0,1,800000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Ram Asis Mali
+12348,621.0,Parsa,Others,,Thori-1,2018-03-07,Fire,0,0,0,0,0,1,200000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Padam Bdr. Kunwar
+12353,626.0,Taplejung,Pathibhara Yangwarak Rural Municipality,4.0,,2018-03-07,Fire,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Agam Singha Samsuhang
+12358,631.0,Okhaldhunga,Khijidemba Rural Municipality,4.0,,2018-03-08,Fire,0,0,0,0,0,1,800000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Ram Chandra Bhattarai
+12359,632.0,Okhaldhunga,Molung Rural Municipality,7.0,,2018-03-08,Fire,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sitagharai Sivaduti Community Forest
+12373,646.0,Solukhumbu,Mahakulung Rural Municipality,4.0,,2018-03-09,Thunderbolt,0,1,0,1,0,2,,2,0,0,0,0,0,0,0,0,0,0,Nepal Police,Rijamali Rai
+12382,655.0,Saptari,Rajbiraj Municipality,7.0,,2018-03-10,Fire,0,0,0,0,0,1,5000000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Mohomod Nasib Khan
+12391,664.0,Morang,Letang Municipality,9.0,,2018-03-11,Thunderbolt,0,1,0,1,0,2,,2,0,0,0,0,0,0,0,0,1,0,Nepal Police,Gita Ghimire
+12395,668.0,Dhankuta,Mahalaxmi Municipality,9.0,,2018-03-11,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Khambasing Tamang
+12430,703.0,Siraha,Sukhipur Municipality,8.0,,2018-03-13,Fire,0,0,0,0,0,3,1500000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Upendra Saha
+12449,722.0,Bhaktapur,Changunarayan Municipality,2.0,,2018-03-16,Fire,0,0,0,0,0,1,400000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Suraj Pyan
+12450,723.0,Chitawan,Bharatpur,10.0,,2018-03-16,Fire,0,0,0,0,0,1,4000000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Wool Factory Godown
+12453,726.0,Morang,Biratnagar Metropolitan City,5.0,,2018-03-16,Fire,0,0,0,0,0,1,,2,0,0,0,1,0,0,0,0,0,0,Nepal Police,Manoj Kumar Shrestha
+12454,727.0,Morang,Sunawarshi Municipality,9.0,,2018-03-16,Fire,0,0,0,0,0,1,454000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Brijlal Saha
+12455,728.0,Morang,Gramthan Rural Municipality,2.0,,2018-03-16,Fire,0,0,0,0,0,8,5200000.0,0,0,0,14,0,0,0,0,0,14,0,Nepal Police,Nepol Sardar
+12457,730.0,Salyan,Bagchaur Municipality,5.0,,2018-03-17,Fire,0,0,0,0,0,9,32100000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Jang Bdr. Chanda
+12466,739.0,Saptari,Rupani Rural Municipality,3.0,,2018-03-17,Fire,0,0,0,0,0,2,219000.0,0,0,0,2,0,0,0,0,0,0,0,Nepal Police,Kamal Mukhiya
+12467,740.0,Saptari,Saptakoshi Municipality,,,2018-03-17,Fire,0,0,0,0,0,1,410000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Dinanath Rauniya
+12468,741.0,Saptari,Kanchanrup Municipality,12.0,,2018-03-17,Fire,0,0,0,0,0,1,400000.0,0,0,0,0,0,0,0,0,0,0,1,Nepal Police,Ganesh BK
+12469,742.0,Sunsari,Barahkshetra Municipality,,,2018-03-17,Fire,0,0,0,0,0,47,13760000.0,1,0,0,70,0,0,0,0,0,18,0,Nepal Police,Puran Chaudhari
+12509,782.0,Kathmandu,Chandragiri Municipality,10.0,,2018-03-20,Fire,0,0,0,0,0,3,2640000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Bhaktaman Shrestha
+12543,816.0,Lalitpur,Mahalaxmi Municipality,2.0,,2018-03-24,Fire,0,0,0,0,0,2,2000000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Niru Paudel
+12547,820.0,Mahottari,Balwa Municipality,11.0,,2018-03-24,Fire,0,0,0,0,0,8,515000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Kamala Shes
+12561,834.0,Udayapur,Chaudandigadhi Municipality,10.0,,2018-03-25,Fire,0,0,0,0,0,1,2000000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Ganesh Prasad Niraula
+12562,835.0,Udayapur,Chaudandigadhi Municipality,5.0,,2018-03-25,Fire,0,0,0,0,0,2,500000.0,0,0,0,2,0,0,0,0,0,0,2,Nepal Police,Kul Bdr. Magar
+12563,836.0,Udayapur,Triyuga Municipality,7.0,,2018-03-25,Fire,0,0,0,0,0,1,250000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Gyanendra Bdr. Khadka
+12571,844.0,Parbat,Modi Rural Municipality,1.0,,2018-03-26,Fire,0,0,0,0,0,1,1000000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Bhul Bdr. Paudel
+12572,845.0,Bhaktapur,Changunarayan Municipality,8.0,,2018-03-26,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Surendra Bal Tamang
+12573,846.0,Bhaktapur,Changunarayan Municipality,8.0,,2018-03-26,Thunderbolt,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sanchanli Yonjan
+12645,918.0,Bhaktapur,Bhaktapur Municipality,9.0,,2018-03-31,Fire,0,0,0,0,0,1,1354000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Jayaram Bhainato
+12659,932.0,Sunsari,Koshi Rural Municipality,6.0,,2018-04-01,Fire,0,0,0,0,0,8,,1,0,0,15,0,0,0,0,0,0,0,Nepal Police,Lalu Jha
+12666,939.0,Bara,Pachrauta Municipality,4.0,,2018-04-02,Fire,0,0,0,0,0,2,400000.0,1,0,0,3,0,0,0,0,0,0,0,Nepal Police,Bhajiya Devi
+12692,965.0,Chitawan,Bharatpur Metropolitan City,10.0,,2018-04-04,Fire,0,0,0,0,0,1,300000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Bishnu Dumrakot
+12704,977.0,Bhojpur,Pauwadungma Rural Municipality,4.0,,2018-04-04,Thunderbolt,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Tara Ghimire
+12743,1016.0,Saptari,Tirahut Rural Municipality,2.0,,2018-04-08,Fire,0,0,0,0,0,1,90000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Prameshwor Ram
+12744,1017.0,Saptari,Shambhunath Municipality,1.0,,2018-04-08,Fire,0,0,0,0,0,2,1000000.0,0,0,0,1,0,0,0,0,0,0,1,Nepal Police,Lal Yadhav
+12745,1018.0,Khotang,Halesituwachung Municipality,5.0,,2018-04-08,Fire,0,0,0,0,0,4,9756000.0,0,0,0,4,0,0,0,0,0,22,4,Nepal Police,Padam Raj Rai
+12753,1026.0,Morang,Jahada Rural Municipality,1.0,,2018-04-09,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ramu Marandi
+12762,1035.0,Udayapur,Udayapurgadhi Rural Municipality,8.0,,2018-04-10,Thunderbolt,0,1,0,1,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Krishnamaya Tamang
+12763,1036.0,Bhojpur,Shadananda Municipality,2.0,,2018-04-10,Thunderbolt,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Muna Bhattarai
+12765,1038.0,Doti,Jorayal Rural Municipality,2.0,,2018-04-11,Thunderbolt,2,0,0,2,0,2,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Om Prakash Bhandari
+12776,1049.0,Kathmandu,Budhanilkantha Municipality,,,2018-04-13,Fire,0,0,0,0,0,2,300000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Roshan Achami
+12787,1060.0,Bara,Mahagadhimai Municipality,5.0,,2018-04-14,Fire,0,0,0,0,0,14,2570000.0,0,0,0,14,0,0,0,0,0,5,0,Nepal Police,
+12788,1061.0,Bara,Pachrauta Municipality,1.0,,2018-04-14,Fire,0,0,0,0,0,3,642000.0,0,0,0,3,0,0,0,0,0,0,0,Nepal Police,
+12807,1080.0,Rautahat,Gaur Municipality,1.0,,2018-04-15,Fire,0,0,0,0,0,4,880000.0,0,0,0,4,0,0,0,0,0,0,0,Nepal Police,Suda Devi Kshetri
+12808,1081.0,Rautahat,Gadhimai Municipality,4.0,,2018-04-15,Fire,0,0,0,0,0,1,590000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Krishna Nandan Chaudhari
+12821,1094.0,Khotang,Diprung Chuichumma Rural Municipality,4.0,,2018-04-16,Fire,1,0,0,1,0,1,200000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Nishan Rai
+12835,1108.0,Mahottari,Bhagaha Municipality,5.0,,2018-04-17,Wind storm,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,
+12836,1109.0,Mahottari,Aurahi Municipality,4.0,,2018-04-17,Wind storm,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ncell Transformer
+12837,1110.0,Mahottari,Jaleshwor Municipality,7.0,,2018-04-17,Wind storm,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sakuntala Devi Sing
+12839,1112.0,Mahottari,Balwa Municipality,9.0,,2018-04-17,Wind storm,0,0,0,0,0,1,80000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Jayanul Rain
+12851,1124.0,Dhankuta,Pakhribas Municipality,2.0,,2018-04-17,Thunderbolt,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Kopila Magar
+12854,1127.0,Lalitpur,Lalitpur Metropolitan City,17.0,,2018-04-18,Fire,0,0,0,0,0,1,1770000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sujan Tamrakar
+12946,1219.0,Saptari,Tirahut Rural Municipality,5.0,,2018-04-25,Fire,0,0,0,0,0,1,60000.0,1,0,0,0,0,0,0,0,0,0,1,Nepal Police,Bhogendra Mansal
+12947,1220.0,Saptari,Mahadeva Rural Municipality,5.0,,2018-04-25,Fire,0,0,0,0,0,7,700000.0,0,0,0,7,0,0,0,0,0,0,0,Nepal Police,Shiva Narayan Saha
+12968,1241.0,Bara,Kalaiya Submetropolitan City,24.0,,2018-04-27,Fire,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Reliance Sugar Company
+12969,1242.0,Bara,Kalaiya Submetropolitan City,21.0,,2018-04-27,Fire,0,0,0,0,0,1,2000000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Upendra Chaudhary
+13059,1332.0,Bajhang,Durgathali Rural Municipality,2.0,,2018-05-05,Flood,0,0,0,0,0,4,,0,0,0,0,0,0,0,0,0,17,0,Nepal Police,Sher Bdr. Bista
+13060,1333.0,Bajhang,Thalara Rural Municipality,,,2018-05-05,Flood,2,3,0,5,0,2,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Hark BK
+13068,1341.0,Makawanpur,Hetauda Submetropolitan City,16.0,,2018-05-06,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Krishna Bdr. Balami
+13069,1342.0,Makawanpur,Manahari Rural Municipality,2.0,,2018-05-06,Thunderbolt,1,1,0,2,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Bhim Lal Singtan
+13070,1343.0,Makawanpur,Hetauda Submetropolitan City,16.0,,2018-05-06,Thunderbolt,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Indra Maya Balami
+13071,1344.0,Chitawan,Ichchhakamana Rural Municipality,7.0,,2018-05-06,Wind storm,1,0,0,1,0,3,,2,0,0,0,0,0,0,0,0,0,0,Nepal Police,Kam Bdr. Gurung
+13072,1345.0,Chitawan,Bharatpur Metropolitan City,1.0,,2018-05-06,Wind storm,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sitali Shrestha
+13073,1346.0,Chitawan,Bharatpur Metropolitan City,,,2018-05-06,Wind storm,0,0,0,0,0,1,,0,0,0,1,0,0,0,0,0,0,0,"DAO, Chitawan",
+13074,1347.0,Chitawan,Ratnanagar Municipality,,,2018-05-06,Wind storm,0,0,0,0,0,13,,0,0,0,13,0,0,0,0,0,0,0,"DAO, Chitawan",
+13075,1348.0,Chitawan,Khairhani Municipality,,,2018-05-06,Wind storm,0,0,0,0,0,197,,0,0,0,100,97,0,0,0,0,0,0,"DAO, Chitawan",
+13076,1349.0,Chitawan,Kalika Municipality,,,2018-05-06,Wind storm,0,0,0,0,0,145,,0,0,0,145,0,0,0,0,0,0,0,"DAO, Chitawan",
+13077,1350.0,Chitawan,Rapti Municipality,,,2018-05-06,Wind storm,0,0,0,0,0,2,,0,0,0,2,0,0,0,0,0,0,0,"DAO, Chitawan",
+13117,1390.0,Siraha,Mirchaiya Municipality,10.0,,2018-05-09,Wind storm,1,0,0,1,0,2,,1,0,0,0,0,0,0,0,0,0,1,Nepal Police,Saguni Mahato
+13131,1404.0,Jhapa,Kachankawal Rural Municipality,7.0,,2018-05-09,Wind storm,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Harkamaya Limbu
+13132,1405.0,Udayapur,Triyuga Municipality,16.0,,2018-05-09,Wind storm,0,0,0,0,0,9,1345000.0,0,0,0,0,9,0,0,0,0,0,0,Nepal Police,Maya Karki
+13133,1406.0,Udayapur,Triyuga Municipality,16.0,,2018-05-09,Wind storm,0,0,0,0,0,1,200000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Laxman pariyar
+13135,1408.0,Udayapur,Rautamai Rural Municipality,,,2018-05-09,Fire,0,0,0,0,0,2,2900000.0,0,0,0,2,0,0,0,0,0,0,0,Nepal Police,Ram Kumar Magar
+13136,1409.0,Udayapur,Triyuga Municipality,14.0,,2018-05-09,Wind storm,0,0,0,0,0,2,200000.0,0,0,0,0,2,0,0,0,0,0,0,Nepal Police,Khang bdr Magar
+13254,1527.0,Ilam,Mansebung Rural Municipality,2.0,,2018-05-18,Fire,0,0,0,0,0,1,1853500.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Dhanjit Rai
+13272,1545.0,Jhapa,Kachankawal Rural Municipality,4.0,,2018-05-20,Fire,0,0,0,0,0,10,1050000.0,0,0,0,10,0,0,0,0,0,0,0,Nepal Police,Saha Aalam
+13353,1626.0,Dang,Gadhawa Rural Municipality,3.0,,2018-05-29,Fire,0,1,0,1,0,5,1500000.0,0,0,0,5,0,0,0,0,0,0,3,Nepal Police,Laxmi Raut
+13372,1645.0,Chitawan,Bharatpur Metropolitan City,4.0,,2018-05-30,Fire,0,0,0,0,0,1,55000000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Everest Color Pvt. Ltd.
+13389,1662.0,Palpa,Tinau Rural Municipality,,,2018-06-01,Landslide,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Palpa- Butwal Road
+13390,1663.0,Palpa,Tinau Rural Municipality,3.0,,2018-06-01,Landslide,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Mohan Regmi
+13394,1667.0,Sunsari,Gadhi Rural Municipality,6.0,,2018-06-01,Fire,0,0,0,0,0,3,350000.0,1,0,0,3,0,0,0,0,0,8,0,Nepal Police,Guddu Urawu
+13422,1695.0,Makawanpur,Bakaiya Rural Municipality,9.0,,2018-06-05,Thunderbolt,1,1,0,2,0,2,,4,0,0,0,0,0,0,0,0,0,0,Nepal Police,Chhalimaya Thing
+13427,1700.0,Sarlahi,Ishworpur Municipality,12.0,,2018-06-05,Thunderbolt,0,1,0,1,0,3,,3,0,0,0,0,0,0,0,0,0,0,Nepal Police,Jokhumaya Waiba
+13428,1701.0,Sunsari,Dharan Submetropolitan City,20.0,,2018-06-05,Thunderbolt,0,0,0,0,0,7,,7,0,0,0,0,0,0,0,0,0,0,Nepal Police,Purnima Tamang
+13454,1727.0,Jhapa,Jhapa Rural Municipality,2.0,,2018-06-07,Thunderbolt,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Tirtha Kumari Limbu
+13482,1755.0,Sunsari,Itahari Submetropolitan City,9.0,,2018-06-10,Fire,0,0,0,0,0,2,25000000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Indra Bdr. Karki
+13497,1770.0,Udayapur,Katari Municipality,9.0,,2018-06-12,Thunderbolt,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Asmita Karki
+13498,1771.0,Udayapur,Tapli Rural Municipality,1.0,,2018-06-12,Thunderbolt,0,0,0,0,0,1,,3,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sagar Nath Sunuwar
+13504,1777.0,Tanahu,Myagde Rural Municipality,6.0,,2018-06-13,Fire,0,0,0,0,0,1,1500000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Raj Shahi
+13544,1817.0,Taplejung,Sirijangha Rural Municipality,7.0,,2018-06-16,Landslide,0,0,0,0,0,1,900000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Man Bdr. Limbu
+13581,1854.0,Morang,Dhanapalthan Rural Municipality,7.0,,2018-06-21,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Mo Rasul Miya
+13582,1855.0,Morang,Kanepokhari Rural Municipality,7.0,,2018-06-21,Thunderbolt,0,0,0,0,0,1,17000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,
+13593,1866.0,Saptari,Bishnupur Rural Municipality,6.0,,2018-06-23,Thunderbolt,0,1,0,1,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Keshari Devi Yadav
+13605,1878.0,Baglung,Bareng Rural Municipality,,,2018-06-25,Landslide,1,2,0,3,0,2,12000000.0,0,0,0,2,1,0,0,0,0,3,5,Nepal Police,Bishnu bdr Chhetri
+13607,1880.0,Baglung,Galkot Municipality,10.0,,2018-06-25,Landslide,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,1,DAO Baglung,
+13608,1881.0,Baglung,Galkot Municipality,6.0,,2018-06-25,Landslide,0,0,0,0,0,1,,0,0,0,0,1,0,0,0,0,0,0,DAO Baglung,Puskar Nepali
+13626,1899.0,Dhading,Khaniyabas Rural Municipality,,,2018-06-27,Landslide,1,1,0,2,0,5,,3,0,0,5,0,0,0,0,0,6,0,Nepal Police,Shamsher Ghale
+13627,1900.0,Dhading,Khaniyabas Rural Municipality,5.0,,2018-06-27,Landslide,0,3,0,3,0,1,,1,0,0,1,0,0,0,0,0,0,0,"DAO, Dhading",Basuta Gurunt
+13628,1901.0,Dhading,Netrawati Dabajon Rural Municipality,1.0,,2018-06-27,Landslide,0,0,0,0,0,6,,2,0,0,6,0,0,0,0,0,11,0,"DAO, Dhading",Hira Maya Tamang
+13629,1902.0,Dhading,Gangajamuna Rural Municipality,4.0,,2018-06-27,Landslide,0,0,0,0,0,3,,0,0,0,3,0,0,0,0,0,0,0,"DAO, Dhading",Rita Thapa Magar
+13654,1927.0,Kailali,Bhajani Municipality,5.0,,2018-07-02,Flood,0,0,0,0,0,14,,0,0,0,0,14,0,0,0,0,0,0,"DAO, Kailali",
+13655,1928.0,Kailali,Bhajani Municipality,7.0,,2018-07-02,Flood,0,0,0,0,0,8,,0,0,0,0,8,0,0,0,0,0,0,"DAO, Kailali",
+13656,1929.0,Kailali,Bhajani Municipality,8.0,,2018-07-02,Flood,0,0,0,0,0,60,,0,0,0,0,60,0,0,0,0,0,0,"DAO, Kailali",
+13673,1946.0,Makawanpur,Indrasarowar Rural Municipality,1.0,,2018-07-02,Landslide,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Motorcycle
+13674,1947.0,Makawanpur,Thaha Municipality,7.0,,2018-07-02,Landslide,0,0,0,0,0,1,,2,0,0,1,0,0,0,0,0,0,0,Nepal Police,Beni Maya
+13677,1950.0,Parsa,Parsagadhi Municipality,,,2018-07-02,Flood,1,1,0,2,0,4,,2,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sangita Chauriseya
+13678,1951.0,Parsa,Chhipaharmai Rural Municipality,5.0,,2018-07-02,Flood,0,0,0,0,0,1,,0,0,0,2,0,0,0,0,0,1,0,"DAO, Parsa",
+13785,2058.0,Saptari,Mahadeva Rural Municipality,1.0,,2018-07-13,Fire,0,0,0,0,0,1,700000.0,0,0,0,0,0,0,0,0,0,0,1,Nepal Police,Laxmi Ishar
+13787,2060.0,Saptari,Mahadeva Rural Municipality,1.0,,2018-07-13,Fire,0,0,0,0,0,3,668000.0,0,0,0,2,0,0,0,0,0,0,1,Nepal Police,Raghu Sutihar
+13789,2062.0,Bhojpur,Hatuwagadhi Rural Municipality,9.0,,2018-07-13,Fire,0,0,0,0,0,1,300000.0,0,0,0,0,0,0,0,0,0,7,1,Nepal Police,Madan Samal Magar
+13790,2063.0,Bhojpur,Hatuwagadhi Rural Municipality,2.0,,2018-07-13,Fire,0,0,0,0,0,2,630000.0,0,0,0,1,0,0,0,0,0,1,1,Nepal Police,Indra Bdr. Magar
+13795,2068.0,Nuwakot,Tadi Rural Municipality,1.0,,2018-07-14,Landslide,0,0,0,0,0,3,1500000.0,0,0,0,2,0,0,0,0,0,0,0,Nepal Police,Bir Bdr. Tamang
+13838,2111.0,Gorkha,Shahidlakhan Rural Municipality,6.0,,2018-07-18,Landslide,1,2,0,3,0,2,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Saru Kunwar
+13839,2112.0,Gorkha,Shahidlakhan Rural Municipality,7.0,,2018-07-18,Landslide,0,0,0,0,0,1,,1,0,0,0,1,0,0,0,0,0,0,Nepal Police,Padam Kumari Rana
+13840,2113.0,Gorkha,Aarughat Rural Municipality,2.0,,2018-07-18,Landslide,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,1,"DAO, Gorkha",Sher Bdr. Neupane
+13842,2115.0,Gorkha,Dharche Rural Municipality,5.0,,2018-07-18,Landslide,0,0,0,0,0,13,,0,0,0,0,0,0,0,0,0,0,0,"DAO, Gorkha",House
+13849,2122.0,Nuwakot,Suryagadhi Rural Municipality,3.0,,2018-07-19,Landslide,0,0,0,0,0,1,6000000.0,4,0,0,1,0,0,0,0,0,13,1,Nepal Police,Navaraj Shrestha
+13850,2123.0,Nuwakot,Bidur Municipality,2.0,,2018-07-19,Landslide,0,0,0,0,0,2,,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Ram Bdr. Kasai
+13851,2124.0,Nuwakot,Tadi Rural Municipality,5.0,,2018-07-19,Landslide,0,0,0,0,0,3,3700000.0,0,0,0,2,0,0,0,0,0,9,2,Nepal Police,Bir Bdr. Tamang
+13852,2125.0,Nuwakot,Shivapuri Rural Municipality,3.0,,2018-07-19,Landslide,0,0,0,0,0,3,,0,0,0,1,2,0,0,0,0,0,0,Nepal Police,Syam Bdr. Tamang
+13854,2127.0,Morang,Biratnagar Metropolitan City,12.0,,2018-07-19,Fire,0,0,0,0,0,1,6000000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Panchali Git Gajal
+13856,2129.0,Jajarkot,Junichaande Rural Municipality,6.0,,2018-07-20,Landslide,0,2,0,2,0,1,,3,0,0,1,0,0,0,0,0,2,0,Nepal Police,Lali Budha
+13873,2146.0,Bajhang,Khaptadchhanna Rural Municipality,1.0,,2018-07-21,Landslide,2,2,0,4,0,2,,2,0,0,0,0,0,0,0,0,0,0,Nepal Police,Maya Devi Thapa
+13907,2180.0,Darchula,Shailyashikhar Municipality,9.0,,2018-07-25,Landslide,1,0,0,1,0,1,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Naresh Bode
+13923,2196.0,Rasuwa,Gosaikunda Rural Municipality,2.0,,2018-07-26,Landslide,7,2,0,9,0,16,,12,0,0,3,0,0,0,0,0,0,0,Nepal Police,Shyam Shrestha
+13995,2268.0,Rasuwa,Gosaikunda Rural Municipality,6.0,,2018-08-03,Landslide,0,1,0,1,0,2,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Namrata Karki
+14010,2283.0,Jajarkot,Bheri Municipality,,,2018-08-05,Landslide,4,5,0,9,0,3,,1,0,0,1,1,0,0,0,0,2,0,Nepal Police,Shital Luhar
+14014,2287.0,Dang,Tulsipur Submetropolitan City,7.0,,2018-08-05,Flood,0,0,0,0,0,11,,19,0,0,0,0,0,0,0,0,0,0,Nepal Police,Purn Nand Bhandari
+14056,2329.0,Dolakha,Bigu Rural Municipality,3.0,,2018-08-08,Landslide,0,0,0,0,0,2,,2,0,0,1,0,0,0,0,0,5,1,Nepal Police,Shyam Bdr. Shrestha
+14147,2420.0,Jajarkot,Nalgaad Municipality,2.0,,2018-08-15,Flood,0,0,0,0,0,2,1058000.0,0,0,0,2,0,0,0,0,0,0,0,Nepal Police,Kak Bdr. Basnet
+14148,2421.0,Jajarkot,Nalgaad Municipality,5.0,,2018-08-15,Flood,0,0,0,0,0,8,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Khemlal Jaisi
+14174,2447.0,Panchthar,Phalelung Rural Municipality,5.0,,2018-08-15,Fire,0,1,0,1,0,1,250000.0,1,0,0,1,0,0,0,0,0,0,0,Nepal Police,Sumina Rai
+14187,2460.0,Jhapa,Shivasatakshi Municipality,11.0,,2018-08-16,Fire,0,0,0,0,0,2,20000000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Krishna Pokharel
+14207,2480.0,Dhading,Tripurasundari Rural Municipality,4.0,,2018-08-17,Landslide,0,0,0,0,0,3,1500000.0,0,0,0,3,0,0,0,0,0,0,0,Nepal Police,Tal Bdr. Aale
+14208,2481.0,Nuwakot,Shivapuri Rural Municipality,6.0,,2018-08-17,Flood,0,0,0,0,0,2,600000.0,2,0,0,0,2,0,0,0,0,3,0,Nepal Police,Manoj Lama
+14209,2482.0,Nuwakot,Bidur Municipality,2.0,,2018-08-17,Landslide,0,0,0,0,0,1,60000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Arjun Kasai
+14230,2503.0,Nuwakot,Belkotgadhi Municipality,11.0,,2018-08-18,Flood,0,0,0,0,0,1,800000.0,0,0,0,0,2,0,0,0,0,0,0,Nepal Police,Hari Bhakta Tiwari
+14233,2506.0,Nuwakot,Kispang Rural Municipality,3.0,,2018-08-18,Flood,0,0,0,0,0,6,300000.0,0,0,0,1,1,0,0,0,0,0,0,Nepal Police,Om Bdr. Tamang
+14237,2510.0,Terhathum,Myanglung Municipality,4.0,,2018-08-18,Fire,0,0,0,0,0,1,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Khadanada Gadtaudala
+14308,2581.0,Kathmandu,Budhanilkantha Municipality,3.0,,2018-08-25,Fire,0,0,0,0,0,3,31300000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Santosh Kumar Gupta
+14310,2583.0,Rautahat,Gaur Municipality,4.0,,2018-08-25,Boat Capsize,1,4,0,5,0,5,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Runa Devi Bharat
+14377,2650.0,Salyan,Bagchaur Municipality,12.0,,2018-09-02,Landslide,1,2,0,3,0,1,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Balaram Dangi
+14400,2673.0,Kaski,Pokharalekhnath Metropolitan City,5.0,,2018-09-04,Fire,0,0,0,0,0,1,1500000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Kawadi Center
+14407,2680.0,Kailali,Godawari Municipality,6.0,,2018-09-05,Fire,0,0,0,0,0,1,5500000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Arjun Deuwa
+14409,2682.0,Mugu,Khatyad Rural Municipality,1.0,,2018-09-05,Landslide,0,0,0,0,0,4,,1,0,0,0,0,0,0,0,0,400,0,Nepal Police,Naribhan Budha
+14433,2706.0,Makawanpur,Hetauda Submetropolitan City,13.0,,2018-09-06,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Rojan Lama
+14434,2707.0,Makawanpur,Bakaiya Rural Municipality,11.0,,2018-09-06,Thunderbolt,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,"DAO, Makawanpur",Bisnulal Syangtan
+14435,2708.0,Makawanpur,Hetauda Submetropolitan City,7.0,,2018-09-06,Thunderbolt,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,DAO Makwanpur,Sabitri Luitel
+14461,2734.0,Kaski,Pokharalekhnath Metropolitan City,31.0,,2018-09-08,Boat Capsize,5,3,0,8,0,6,,2,0,0,0,0,0,0,0,0,0,0,Nepal Police,Krishna Kumari Bajagain
+14472,2745.0,Kaski,Pokharalekhnath Metropolitan City,32.0,,2018-09-10,Flood,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,House
+14488,2761.0,Kathmandu,Kathmandu Metropolitan City,27.0,,2018-09-11,Fire,0,0,0,0,0,5,51600000.0,5,0,0,0,4,0,0,0,0,0,0,Nepal Police,Pemba Dorje
+14506,2779.0,Lamjung,Marsyangdi Rural Municipality,4.0,,2018-09-12,Landslide,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Jeep
+14507,2780.0,Lamjung,Marsyangdi Rural Municipality,4.0,,2018-09-12,Landslide,0,1,0,1,0,2,,1,0,0,0,0,0,0,0,0,27,0,Nepal Police,Bisnumaya Gurung
+14508,2781.0,Lamjung,Marsyangdi Rural Municipality,3.0,,2018-09-12,Landslide,1,1,0,2,0,3,,4,0,0,1,0,0,0,0,0,0,0,Nepal Police,Tirupa Thapa
+14510,2783.0,Lamjung,Marsyangdi Rural Municipality,4.0,,2018-09-12,Landslide,0,0,0,0,0,3,,0,0,0,1,0,0,0,0,0,9,0,Nepal Police,Jit Bdr. Gurung
+14511,2784.0,Lamjung,Marsyangdi Rural Municipality,3.0,,2018-09-12,Landslide,0,1,0,1,0,2,,4,0,0,2,0,0,0,0,0,0,0,Nepal Police,Lalitamaya Gurung
+14512,2785.0,Lamjung,Marsyangdi Rural Municipality,6.0,,2018-09-12,Landslide,0,0,0,0,0,8,,0,0,0,6,0,0,0,0,0,6,2,Nepal Police,Gir Bdr. Damai
+14513,2786.0,Lamjung,Marsyangdi Rural Municipality,4.0,,2018-09-12,Landslide,0,0,0,0,0,1,,2,0,0,0,0,0,0,0,0,0,0,Nepal Police,Bal Bdr. Gurung
+14514,2787.0,Nuwakot,Dupcheshwor Rural Municipality,1.0,,2018-09-12,Landslide,0,0,0,0,0,11,,2,0,0,11,0,0,0,0,0,8,1,Nepal Police,Dorje Sherpa
+14545,2818.0,Humla,Chankheli Rural Municipality,5.0,,2018-09-15,Landslide,0,2,0,2,0,1,,4,0,0,0,0,0,0,0,0,0,0,Nepal Police,Hemanta Tamang
+14655,2928.0,Dhankuta,Mahalaxmi Municipality,4.0,,2018-10-03,Fire,0,0,0,0,0,4,3306940.0,0,0,0,3,1,0,0,0,0,1,0,Nepal Police,Gan Bdr. Magar.
+14679,2952.0,Bhojpur,Bhojpur Municipality,7.0,,2018-10-07,Fire,0,0,0,0,0,1,11133500.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Jay Bdr. Tamang
+14779,3052.0,Kailali,Dhangadhi Submetropolitan City,2.0,,2018-10-22,Fire,0,0,0,0,0,1,8200000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Prem prasad Gautam
+14811,3084.0,Dolakha,Gaurishankar Rural Municipality,9.0,,2018-10-25,Fire,1,1,0,2,0,1,900000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Tashinam Sherpa
+14841,3114.0,Rautahat,Katahariya Municipality,5.0,,2018-10-27,Fire,0,0,0,0,0,135,1350000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Hat Bazzar
+15021,3294.0,Dang,Tulsipur Submetropolitan City,12.0,,2018-11-09,Fire,1,0,0,1,0,1,150000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Aajaua Udau
+15022,3295.0,Dang,Ghorahi Submetropolitan City,16.0,,2018-11-09,Fire,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,1,Nepal Police,Hark Bdr. KC
+15023,3296.0,Kapilbastu,Kapilvastu Municipality,6.0,,2018-11-09,Fire,0,0,0,0,0,1,50000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Sirpat Chamar
+15042,3315.0,Lalitpur,Godawari Municipality,11.0,,2018-11-10,Fire,0,0,0,0,0,1,300000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Pahalman Desar
+15060,3333.0,Udayapur,Chaudandigadhi Municipality,6.0,,2018-11-11,Fire,0,0,0,0,0,1,2200000.0,0,0,0,0,0,0,0,0,0,2,0,Nepal Police,Suvash Rai
+15080,3353.0,Sunsari,Inaruwa Municipality,3.0,,2018-11-13,Fire,0,0,0,0,0,1,300000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Surendra Dulal
+15081,3354.0,Sunsari,Harinagar Rural Municipality,6.0,,2018-11-13,Fire,0,0,0,0,0,1,10000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ilayas Meya
+15104,3377.0,Bhojpur,Bhojpur Municipality,7.0,,2018-11-16,Fire,0,0,0,0,0,1,1400000.0,0,0,0,1,0,0,0,0,0,0,0,"REOC, Dhankuta",Gobinda Sunadas
+15144,3417.0,Morang,Urlabari Municipality,7.0,,2018-11-20,Fire,0,0,0,0,0,2,11232000.0,0,0,0,2,0,0,0,0,0,0,0,Nepal Police,Bhaktaram Adhikari
+15185,3458.0,Jhapa,Shivasatakshi Municipality,3.0,,2018-11-25,Fire,2,2,0,4,0,1,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Laxman Khanal
+15188,3461.0,Kathmandu,Kathmandu Metropolitan City,10.0,,2018-11-26,Fire,0,0,0,0,0,2,70000000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Gauri Shankar Furniture
+15215,3488.0,Kathmandu,Budhanilkantha Municipality,3.0,,2018-11-28,Fire,0,0,0,0,0,1,40000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Shankar Ramtel
+15223,3496.0,Mustang,Gharpajhong Rural Municipality,4.0,,2018-11-29,Fire,0,0,0,0,0,1,5000000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Min Prasad Thakali
+15290,3563.0,Banke,Nepalgunj Submetropolitan City,12.0,,2018-12-05,Fire,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Aunish Agrawal
+15309,3582.0,Kathmandu,Kathmandu Metropolitan City,29.0,,2018-12-07,Fire,0,0,0,0,0,1,2000000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Lengeri Collection
+15310,3583.0,Kathmandu,Tokha Municipality,3.0,,2018-12-07,Fire,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,
+15364,3637.0,Sunsari,Itahari Submetropolitan City,10.0,,2018-12-11,Fire,0,0,0,0,0,1,48781000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Laxmi Pvt Ltd.
+15389,3662.0,Dang,Tulsipur Submetropolitan City,5.0,,2018-12-14,Fire,0,0,0,0,0,1,50000000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Jutta Chhapal Godown
+15390,3663.0,Dang,Tulsipur Submetropolitan City,19.0,,2018-12-14,Fire,0,0,0,0,0,1,200000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Paral
+15393,3666.0,Bhaktapur,Suryabinayak Municipality,5.0,,2018-12-14,Fire,0,0,0,0,0,1,2150000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Ramesh Nath Dangal
+15398,3671.0,Saptari,Tilathikoiladi Rural Municipality,7.0,,2018-12-14,Fire,0,0,0,0,0,5,2300000.0,0,0,0,5,0,0,0,0,0,4,0,Nepal Police,Bindeshwor Rajak
+15424,3697.0,Baglung,Kathekhola Rural Municipality,8.0,,2018-12-16,Fire,1,0,0,1,0,1,450000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Jit Bdr Kshetri
+15425,3698.0,Baglung,Bareng Rural Municipality,2.0,,2018-12-16,Fire,0,0,0,0,0,1,157000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Nar Bdr Pariyar
+15426,3699.0,Baglung,Baglung Municipality,13.0,,2018-12-16,Fire,0,0,0,0,0,1,500000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Rajendra Nepali
+15449,3722.0,Saptari,Tilathikoiladi Rural Municipality,1.0,,2018-12-17,Fire,0,0,0,0,0,6,2000000.0,0,0,0,6,0,0,0,0,0,11,6,Nepal Police,Bijay Kumar Yadab
+15450,3723.0,Saptari,Dakneshwori Municipality,8.0,,2018-12-17,Fire,0,0,0,0,0,1,300000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Sanjula Devi Yadab
+15451,3724.0,Saptari,Rajbiraj Municipality,9.0,,2018-12-17,Fire,0,0,0,0,0,1,15000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Paral Ma
+15453,3726.0,Bajhang,Jayaprithvi Municipality,11.0,,2018-12-18,Fire,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Khoto Company
+15470,3743.0,Humla,Sarkegad Rural Municipality,7.0,,2018-12-20,Fire,0,0,0,0,0,2,600000.0,0,0,0,2,0,0,0,0,0,0,0,Nepal Police,Prem Prasad Gaisi
+15486,3759.0,Myagdi,Beni Municipality,8.0,,2018-12-21,Fire,0,0,0,0,0,1,1285000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Bikram BK
+15510,3783.0,Kalikot,Palata Rural Municipality,1.0,,2018-12-23,Fire,0,0,0,0,0,87,30600000.0,7,0,0,33,0,0,0,0,0,23,0,Nepal Police,Khanda Gaun Ma
+15533,3806.0,Morang,Urlabari Municipality,7.0,,2018-12-24,Fire,0,1,0,1,0,1,200000.0,1,0,0,1,0,0,0,0,0,0,0,Nepal Police,Renuka Thapa
+15540,3813.0,Kathmandu,Kathmandu Metropolitan City,26.0,,2018-12-25,Fire,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Bijuli ko Pool Ma
+15549,3822.0,Bhojpur,Pauwadungma Rural Municipality,4.0,,2018-12-25,Fire,0,0,0,0,0,1,1050000.0,0,0,0,1,0,0,0,0,0,0,1,Nepal Police,Sanaman Paudel
+15567,3840.0,Jhapa,Damak Municipality,3.0,,2018-12-26,Fire,0,0,0,0,0,2,950000.0,0,0,0,2,0,0,0,0,0,5,2,Nepal Police,Bishnu Chimariya
+15568,3841.0,Jhapa,Bhadrapur Municipality,10.0,,2018-12-26,Fire,0,0,0,0,0,1,15000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Paral Ma
+15583,3856.0,Jhapa,Mechinagar Municipality,6.0,,2018-12-27,Fire,0,0,0,0,0,24,30000000.0,0,0,0,22,2,0,0,0,0,0,0,Nepal Police,Chabilal Aangdambe
+15584,3857.0,Jhapa,Buddhashanti Rural Municipality,5.0,,2018-12-27,Fire,0,0,0,0,0,1,200000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Kul Bdr Kharel
+15585,3858.0,Udayapur,Katari Municipality,8.0,,2018-12-27,Fire,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,1,Nepal Police,Suman Tamang
+15590,3863.0,Kathmandu,Kathmandu Metropolitan City,13.0,,2018-12-28,Fire,0,0,0,0,0,1,500000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Dhurba Dahal
+15642,3915.0,Sarlahi,Godaita Municipality,10.0,,2018-12-31,Fire,0,0,0,0,0,1,115000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Hotel Ma
+15643,3916.0,Sarlahi,Barhathwa Municipality,1.0,,2018-12-31,Fire,0,0,0,0,0,5,1830000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ukhu Barima
+15705,3978.0,Sarlahi,Balra Municipality,3.0,,2019-01-04,Fire,0,0,0,0,0,1,250000.0,0,0,0,0,0,0,0,0,0,0,1,Nepal Police,Binod Jha
+15706,3979.0,Sarlahi,Balra Municipality,3.0,,2019-01-04,Fire,0,0,0,0,0,1,250000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Binod Jha
+15722,3995.0,Jhapa,Gaurigunj Rural Municipality,2.0,,2019-01-05,Fire,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,sunita tudule
+15724,3997.0,Dang,Rapti Rural Municipality,2.0,,2019-01-06,Fire,0,0,0,0,0,1,600000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Devi Kumal
+15726,3999.0,Tanahu,Vyas Municipality,4.0,,2019-01-06,Fire,0,0,0,0,0,1,2200000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sirak Dasna Udhogama
+15728,4001.0,Kathmandu,Tokha Municipality,12.0,,2019-01-06,Fire,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Mo Sa Ma
+15761,4034.0,Baglung,Tarakhola Rural Municipality,4.0,,2019-01-08,Fire,2,1,0,3,0,2,300000.0,0,0,0,0,0,0,0,0,0,0,1,Nepal Police,Ranisha Rokka
+15764,4037.0,Kathmandu,Tokha Municipality,11.0,,2019-01-08,Fire,0,0,0,0,0,1,200000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Mukundaraj Prakash Ghimire
+15810,4083.0,Kathmandu,Kathmandu Metropolitan City,6.0,,2019-01-11,Fire,0,0,0,0,0,1,5000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Madhav Wagle
+15813,4086.0,Siraha,Golbazar Municipality,4.0,,2019-01-11,Fire,0,0,0,0,0,1,3000000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Rice Mill Ma
+15903,4176.0,Lalitpur,Mahankal Rural Municipality,3.0,,2019-01-18,Fire,0,0,0,0,0,1,800000.0,0,0,0,1,0,0,0,0,0,0,1,Nepal Police,Prem Prasad Ghimire
+15914,4187.0,Kathmandu,Kathmandu Metropolitan City,31.0,,2019-01-19,Fire,0,0,0,0,0,1,500000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Nagarik Lagani Kosh ko office
+15915,4188.0,Kathmandu,Kirtipur Municipality,4.0,,2019-01-19,Fire,0,0,0,0,0,1,185000.0,0,0,0,0,0,0,0,0,0,1,1,Nepal Police,Dhwarika Khanal
+15916,4189.0,Kathmandu,Kathmandu Metropolitan City,26.0,,2019-01-19,Fire,0,0,0,0,0,3,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Hotel Ma
+15918,4191.0,Sarlahi,Balra Municipality,8.0,,2019-01-19,Fire,0,0,0,0,0,6,1875000.0,0,0,0,6,0,0,0,0,0,11,0,Nepal Police,Isa Mahamad
+15952,4225.0,Dadeldhura,Aalital Rural Municipality,3.0,,2019-01-22,Thunderbolt,1,0,0,1,0,1,,1,0,0,0,0,0,0,0,0,0,0,DAO Dadeldhura,Harka Bdr Thapa
+15953,4226.0,Dadeldhura,Ganyapadhura Rural Municipality,5.0,,2019-01-22,Thunderbolt,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,DAO Dadeldhura,Rosani Deuwa
+15954,4227.0,Dadeldhura,Aalital Rural Municipality,5.0,,2019-01-22,Thunderbolt,0,0,0,0,0,2,,3,0,0,0,0,0,0,0,0,0,0,Nepal Police,Gomati Bista
+16006,4279.0,Banke,Nepalgunj Submetropolitan City,23.0,,2019-01-25,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Gulam Mahamad Darji
+16012,4285.0,Makawanpur,Raksirang Rural Municipality,1.0,,2019-01-25,Thunderbolt,0,0,0,0,0,2,,6,0,0,0,0,0,0,0,0,2,0,Nepal Police,Suntalimaya Thing
+16013,4286.0,Makawanpur,Bhimphedi Rural Municipality,9.0,,2019-01-25,Thunderbolt,0,0,0,0,0,3,,5,0,0,0,0,0,0,0,0,3,0,Nepal Police,Krishna Bdr Parja
+16031,4304.0,Sunsari,Itahari Submetropolitan City,12.0,,2019-01-27,Fire,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Reliance Thread Factory
+16032,4305.0,Sunsari,Koshi Rural Municipality,1.0,,2019-01-27,Fire,0,0,0,0,0,1,15000000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Dhan& Sunpat Godam Ma
+16038,4311.0,Ilam,Ilam Municipality,7.0,,2019-01-27,Fire,0,0,0,0,0,2,1400000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Man Bdr Gurung
+16048,4321.0,Ramechhap,Ramechhap Municipality,6.0,,2019-01-28,Fire,1,0,0,1,0,1,100000.0,0,0,0,0,0,0,0,0,0,0,1,Nepal Police,Dipendra Magar
+16057,4330.0,Solukhumbu,Khumbupasanglhamu Rural Municipality,2.0,,2019-01-28,Fire,0,0,0,0,0,1,5702700.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Lakhaman Tamang
+16152,4425.0,Sarlahi,Kaudena Rural Municipality,5.0,,2019-02-06,Fire,0,0,0,0,0,1,125000.0,0,0,0,0,0,0,0,0,0,0,1,n,Yogendra Ray
+16168,4441.0,Dadeldhura,Bhageshwor Rural Municipality,5.0,,2019-02-08,Thunderbolt,0,1,0,1,0,1,,4,0,0,0,0,0,0,0,0,3,0,DAO Dadeldhura,Saraswati Nath
+16169,4442.0,Dadeldhura,Amargadhi Municipality,3.0,,2019-02-08,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,DAO Dadeldhura,Gagan Dolal
+16201,4474.0,Mahottari,Bardibas Municipality,11.0,,2019-02-09,Thunderbolt,0,0,0,0,0,2,1100000.0,0,0,0,2,0,0,0,0,0,0,0,Nepal Police,Dil Bdr Dimdam
+16225,4498.0,Jumla,Chandannath Municipality,1.0,,2019-02-13,Fire,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Man Bdr Darlami
+16235,4508.0,Sindhuli,Tinpatan Rural Municipality,10.0,,2019-02-14,Fire,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Amrita Darji
+16239,4512.0,Kanchanpur,Shuklaphanta Municipality,8.0,,2019-02-15,Thunderbolt,0,0,0,0,0,1,,2,0,0,0,0,0,0,0,0,1,0,Nepal Police,Gaura Khatri
+16242,4515.0,Dang,Gadhawa Rural Municipality,7.0,,2019-02-15,Thunderbolt,0,0,0,0,0,1,500000.0,1,0,0,1,0,0,0,0,0,0,0,Nepal Police,Moti BK
+16243,4516.0,Dang,Tulsipur Submetropolitan City,14.0,,2019-02-15,Thunderbolt,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,2,0,Nepal Police,Haule Chaudhari
+16281,4554.0,Panchthar,Phalelung Rural Municipality,5.0,,2019-02-16,Thunderbolt,0,0,0,0,0,2,,8,0,0,0,0,0,0,0,0,0,0,Nepal Police,Chij Maya Rai
+16282,4555.0,Panchthar,Phalgunanda Rural Municipality,3.0,,2019-02-16,Thunderbolt,1,0,0,1,0,2,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Bhagendra Tamang
+16283,4556.0,Panchthar,Phidim Municipality,5.0,,2019-02-16,Thunderbolt,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Deepak Sewa
+16308,4581.0,Morang,Sundarharaicha Municipality,5.0,,2019-02-20,Fire,0,0,0,0,0,2,1000000.0,0,0,0,0,0,0,0,0,0,0,2,Nepal Police,Negi Gurung
+16333,4606.0,Udayapur,Rautamai Rural Municipality,2.0,,2019-02-23,Fire,0,0,0,0,0,5,6600000.0,0,0,0,5,0,0,0,0,0,47,7,Nepal Police,Kamal Bdr Karki
+16353,4626.0,Dadeldhura,Aalital Rural Municipality,8.0,,2019-02-26,Fire,0,2,0,2,0,2,6092000.0,1,0,0,2,0,0,0,0,0,0,0,Nepal Police,Aarati Thapa
+16434,4707.0,Terhathum,Chhathar Rural Municipality,2.0,,2019-03-05,Fire,0,1,0,1,0,1,1000000.0,1,0,0,1,0,0,0,0,0,0,0,Nepal Police,Samjhana Karki
+16453,4726.0,Kathmandu,Kathmandu Metropolitan City,18.0,,2019-03-07,Fire,0,0,0,0,0,2,,1,0,0,0,1,0,0,0,0,0,0,Nepal Police,Rajan Thapa
+16454,4727.0,Kathmandu,Kathmandu Metropolitan City,14.0,,2019-03-07,Fire,0,0,0,0,0,2,,0,0,0,2,0,0,0,0,0,0,0,Nepal Police,Jagat Raj Mahat
+16455,4728.0,Kathmandu,Kathmandu Metropolitan City,22.0,,2019-03-07,Fire,0,0,0,0,0,1,2000000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Jayaganga Fancy Store
+16528,4801.0,Sarlahi,Kawilasi Municipality,7.0,,2019-03-12,Fire,0,0,0,0,0,1,40000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ramprit Ray
+16529,4802.0,Sarlahi,Parsa Rural Municipality,4.0,,2019-03-12,Fire,0,0,0,0,0,4,1475000.0,1,0,0,4,0,0,0,0,0,20,4,Nepal Police,Upendra Ray Yadav
+16539,4812.0,Bhojpur,Pauwadungma Rural Municipality,5.0,,2019-03-12,Fire,0,0,0,0,0,3,1578710.0,0,0,0,3,0,0,0,0,0,0,0,Nepal Police,Bhadra Sing Rai
+16546,4819.0,Sindhuli,Tinpatan Rural Municipality,7.0,,2019-03-13,Fire,0,0,0,0,0,4,4350000.0,0,0,0,4,0,0,0,0,0,3,0,Nepal Police,Gan Bdr Sarki
+16577,4850.0,Kapilbastu,Shivraj Municipality,1.0,,2019-03-15,Fire,0,0,0,0,0,4,500000.0,0,0,0,4,0,0,0,0,0,0,1,Nepal Police,Pradip Nepali
+16603,4876.0,Dolakha,Bhimeshwor Municipality,4.0,,2019-03-16,Fire,1,0,0,1,0,1,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Khadak Prasad Chaulagain
+16611,4884.0,Saptari,Surunga Municipality,9.0,,2019-03-16,Fire,0,0,0,0,0,8,2500000.0,0,0,0,8,0,0,0,0,0,0,0,Nepal Police,Badri mandal
+16612,4885.0,Saptari,Krishnasawaran Rural Municipality,,,2019-03-16,Fire,0,0,0,0,0,2,20000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Golai Chaudhary
+16613,4886.0,Saptari,Saptakoshi Municipality,10.0,,2019-03-16,Fire,0,0,0,0,0,1,250000.0,0,0,0,1,0,0,0,0,0,0,1,Nepal Police,Ram Kumar Magar
+16614,4887.0,Saptari,Chhinnamasta Rural Municipality,1.0,,2019-03-16,Fire,0,0,0,0,0,3,120000.0,0,0,0,0,0,0,0,0,0,0,3,Nepal Police,Udit Narayan Mishra
+16615,4888.0,Saptari,Tilathikoiladi Rural Municipality,6.0,,2019-03-16,Fire,0,0,0,0,0,3,40000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Paral Ma
+16624,4897.0,Panchthar,Hilihang Rural Municipality,3.0,,2019-03-16,Fire,0,0,0,0,0,6,4100000.0,0,0,0,6,0,0,0,0,0,0,0,Nepal Police,Bedmaya Poudel
+16631,4904.0,Sarlahi,Ishworpur Municipality,12.0,,2019-03-17,Fire,0,0,0,0,0,3,360000.0,0,0,0,2,1,0,0,0,0,0,0,Nepal Police,Aaitaman Mikchan
+16725,4998.0,Kapilbastu,Shivraj Municipality,6.0,,2019-03-22,Fire,0,0,0,0,0,11,5400000.0,1,0,0,11,0,0,0,0,0,1,5,Nepal Police,Shon Ullah Miya
+16726,4999.0,Kapilbastu,Maharajgunj Municipality,11.0,,2019-03-22,Fire,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ram Kishor Yadav
+16727,5000.0,Kapilbastu,Krishnanagar Municipality,9.0,,2019-03-22,Fire,0,0,0,0,0,1,60000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Rajnarayan Harijan
+16736,5009.0,Chitawan,Ichchhakamana Rural Municipality,2.0,,2019-03-22,Fire,1,0,0,1,0,3,,0,0,0,3,0,0,0,0,0,0,0,Nepal Police,Shiva Parja
+16758,5031.0,Siraha,Naraha Rural Municipality,1.0,,2019-03-23,Fire,0,0,0,0,0,1,45000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Ramdev Kamati
+16759,5032.0,Siraha,Dhangadhimai Municipality,14.0,,2019-03-23,Fire,0,2,0,2,0,2,200000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Diksha Dhamala & Ritu Pokharel
+16772,5045.0,Saptari,Saptakoshi Municipality,6.0,,2019-03-24,Fire,0,0,0,0,0,1,100000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Pradip Baradar
+16799,5072.0,Lamjung,Besishahar Municipality,7.0,,2019-03-26,Fire,0,0,0,0,0,3,5000000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Computer instituted & Tailor Shop
+16808,5081.0,Bhojpur,Arun Rural Municipality,4.0,,2019-03-26,Fire,0,0,0,0,0,1,1500000.0,0,0,0,1,0,0,0,0,0,1,0,Nepal Police,Govinda Prasad Sangel
+16861,5134.0,Dolpa,Shephoksundo Rural Municipality,3.0,,2019-03-31,Avalanche,3,0,0,3,0,3,,0,0,0,0,0,0,0,0,0,0,0,"DAO, Dolpa",Phurwa Thinlya Gurung
+16871,5144.0,Parsa,Birgunj Metropolitan City,12.0,,2019-03-31,Wind storm,1,0,0,1,0,396,,33,0,0,90,306,0,0,0,0,0,0,Nepal Police,Saroj Ram
+16872,5145.0,Bara,Pheta Rural Municipality,,,2019-03-31,Wind storm,12,15,0,27,0,2429,,1122,0,0,1362,1067,0,0,0,0,0,0,Nepal Police,Bara Windstorm
+16925,5198.0,Sarlahi,Malangwa Municipality,10.0,,2019-04-04,Fire,0,0,0,0,0,7,5950000.0,0,0,0,0,0,0,0,0,0,0,1,Nepal Police,Pasal -6
+16933,5206.0,Kathmandu,Kathmandu Metropolitan City,2.0,,2019-04-05,Fire,1,0,0,1,0,3,,2,0,0,0,1,0,0,0,0,0,0,Nepal Police,Bhesh Bdr Thapa
+16934,5207.0,Kathmandu,Chandragiri Municipality,9.0,,2019-04-05,Fire,0,0,0,0,0,1,1200000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Bikash Shrestha
+16935,5208.0,Kathmandu,Kirtipur Municipality,5.0,,2019-04-05,Fire,0,0,0,0,0,1,100000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Gita Budha Magar
+16969,5242.0,Sarlahi,Ramnagar Rural Municipality,1.0,,2019-04-06,Wind storm,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Pannilal sahani
+16976,5249.0,Morang,Budhiganga Rural Municipality,3.0,,2019-04-06,Thunderbolt,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Aradhana Rajbasi
+16978,5251.0,Jhapa,Mechinagar Municipality,15.0,,2019-04-06,Thunderbolt,1,0,0,1,0,1,,2,0,0,0,0,0,0,0,0,0,0,Nepal Police,Prakesh Raut
+16992,5265.0,Dhankuta,Dhankuta Municipality,9.0,,2019-04-07,Boat Capsize,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ram Bdr Gurung
+17015,5288.0,Rautahat,Brindawan Municipality,1.0,,2019-04-09,Wind storm,0,0,0,0,0,1,,1,0,0,0,1,0,0,0,0,0,0,"DAO, Rautahat",Tilak Sahani
+17016,5289.0,Rautahat,Brindawan Municipality,1.0,,2019-04-09,Wind storm,0,0,0,0,0,324,,0,0,0,123,201,0,0,0,0,0,0,"DAO, Rautahat",
+17040,5313.0,Jhapa,Jhapa Rural Municipality,4.0,,2019-04-11,Fire,0,0,0,0,0,1,1500000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Rajesh Ganesh
+17041,5314.0,Jhapa,Arjundhara Municipality,5.0,,2019-04-11,Fire,0,0,0,0,0,1,50000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Sanju Maya Tamang
+17056,5329.0,Tanahu,Shuklagandaki Municipality,10.0,,2019-04-13,Thunderbolt,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Bhumika Khatri
+17101,5374.0,Khotang,Diktel Rupakot Majhuwagadhi Municipality,11.0,Kothika,2019-04-15,Fire,0,0,0,0,0,2,992000.0,0,0,0,2,0,0,0,0,0,0,0,Nepal Police,Bhim Bdr Tamang
+17122,5395.0,Bara,Kalaiya Submetropolitan City,12.0,Dharmanagar,2019-04-16,Thunderbolt,0,0,0,0,0,5,500000.0,5,0,0,1,0,0,0,0,0,0,0,Nepal Police,Kalewar Ram
+17123,5396.0,Bara,Kalaiya Submetropolitan City,6.0,Parsa Toli,2019-04-16,Thunderbolt,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Salama Khatun
+17133,5406.0,Udayapur,Katari Municipality,8.0,Babala,2019-04-16,Thunderbolt,0,1,0,1,0,1,,6,0,0,0,0,0,0,0,0,0,0,Nepal Police,Kalimaya Thapa Magar
+17134,5407.0,Dhankuta,Sangurigadhi Rural Municipality,5.0,Nigale,2019-04-16,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Lal Man Tamang
+17141,5414.0,Saptari,Rajbiraj Municipality,4.0,,2019-04-17,Fire,0,0,0,0,0,5,3710000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Pasal-4
+17142,5415.0,Saptari,Tirahut Rural Municipality,5.0,,2019-04-17,Fire,0,0,0,0,0,6,900000.0,0,0,0,6,0,0,0,0,0,0,0,Nepal Police,Ram Prasad Yadav
+17181,5454.0,Baglung,Nisikhola Rural Municipality,2.0,Devisthan,2019-04-20,Fire,1,0,0,1,0,1,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Bishal Sunar
+17182,5455.0,Baglung,Galkot Municipality,3.0,Hatiya,2019-04-20,Fire,0,0,0,0,0,1,,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Juna Darji
+17283,5556.0,Jhapa,Bhadrapur Municipality,6.0,,2019-04-26,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Bhim Rajbansi
+17290,5563.0,Khotang,Rawa Besi Rural Municipality,3.0,Lekhakhark,2019-04-27,Thunderbolt,0,1,0,1,0,2,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Kamala Shrestha
+17301,5574.0,Saptari,Bodebarsain Municipality,8.0,Sonapur,2019-04-28,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Mohan Saha
+17379,5652.0,Palpa,Rainadevichhahara Rural Municipality,8.0,Rajapani,2019-05-03,Thunderbolt,0,0,0,0,0,2,,2,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ram Bdr Rana
+17383,5656.0,Makawanpur,Makawanpurgadhi Rural Municipality,5.0,Dungdal,2019-05-03,Thunderbolt,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Hit Bdr Dong
+17384,5657.0,Makawanpur,Makawanpurgadhi Rural Municipality,5.0,Deurali,2019-05-03,Thunderbolt,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Phulmaya Parkin
+17385,5658.0,Makawanpur,Makawanpurgadhi Rural Municipality,3.0,Lamitar,2019-05-03,Thunderbolt,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Brinda Moktan
+17401,5674.0,Sarlahi,Harion Municipality,6.0,Dhurkauli,2019-05-05,Fire,0,0,0,0,0,1,200000.0,0,0,0,2,0,0,0,0,0,0,1,Nepal Police,Sigdel Ray
+17515,5788.0,Nuwakot,Myagong Rural Municipality,4.0,Ding,2019-05-11,Thunderbolt,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ning Tamang
+17533,5806.0,Makawanpur,Raksirang Rural Municipality,4.0,,2019-05-12,Thunderbolt,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sunmaya Blon
+17537,5810.0,Khotang,Aiselukharka Rural Municipality,6.0,Jyamire,2019-05-12,Fire,0,0,0,0,0,2,685000.0,0,0,0,2,0,0,0,0,0,0,0,Nepal Police,Nar Bdr Pariyar
+17538,5811.0,Khotang,Diktel Rupakot Majhuwagadhi Municipality,5.0,,2019-05-12,Thunderbolt,0,0,0,0,0,5,,8,0,0,0,0,0,0,0,0,0,0,Nepal Police,Renuka Bista
+17549,5822.0,Saptari,Hanumannagarkankalini Municipality,1.0,Bhardah,2019-05-13,Wind storm,0,0,0,0,0,1,45000.0,2,0,0,0,1,0,0,0,0,0,0,Nepal Police,Arula Devi Raut
+17577,5850.0,Sindhuli,Tinpatan Rural Municipality,7.0,Aarubote,2019-05-15,Thunderbolt,0,0,0,0,0,3,,3,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ukhamaya Lamichhane
+17597,5870.0,Bhojpur,Bhojpur Municipality,8.0,Barbote,2019-05-16,Fire,0,0,0,0,0,3,5200000.0,0,0,0,3,0,0,0,0,0,0,0,Nepal Police,Bakhat Lal shrestha
+17599,5872.0,Kailali,Bardgoriya Rural Municipality,1.0,Bauniya,2019-05-17,Fire,0,0,0,0,0,1,13000000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Electronic Godam
+17600,5873.0,Kailali,Bardgoriya Rural Municipality,3.0,Kumbhiya,2019-05-17,Fire,0,0,0,0,0,1,60000.0,0,0,0,0,1,0,0,0,0,0,0,"DAO, Kailali",Maniram Puri
+17601,5874.0,Kailali,Gauriganga Municipality,4.0,,2019-05-17,Fire,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,"DAO, Kailali",Forest Ma
+17623,5896.0,Rupandehi,Lumbinisanskritik Municipality,6.0,,2019-05-18,Fire,0,0,0,0,0,1,1000000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Restaurant Ma
+17667,5940.0,Rupandehi,Kanchan Rural Municipality,5.0,Sandahawa,2019-05-21,Fire,0,0,0,0,0,1,250000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Netra Prasad Paudel
+17678,5951.0,Baitadi,Purchaudi Municipality,7.0,Bus Park,2019-05-22,Fire,2,1,0,3,0,1,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Kare Luhar
+17679,5952.0,Baitadi,Patan Municipality,6.0,Thalara,2019-05-22,Fire,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,1,Nepal Police,Forest Ma
+17704,5977.0,Jumla,Hima Rural Municipality,7.0,,2019-05-23,Thunderbolt,0,1,0,1,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Rupsi Bhuda
+17757,6030.0,Lamjung,Madhyanepal Municipality,3.0,Chardi,2019-05-27,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sunil Shakhi
+17758,6031.0,Lamjung,Madhyanepal Municipality,3.0,Lameganu,2019-05-27,Thunderbolt,0,0,0,0,0,1,50000.0,0,0,0,0,0,0,0,0,0,0,0,"REOC, Pokhara",Goma Bagale
+17838,6111.0,Panchthar,Phalelung Rural Municipality,5.0,,2019-05-31,Fire,0,0,0,0,0,1,2200000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,School Ma
+17847,6120.0,Saptari,Bodebarsain Municipality,3.0,Gau Toll,2019-06-01,Fire,0,0,0,0,0,5,546600.0,0,0,0,5,0,0,0,0,0,0,0,Nepal Police,Jageshwor Yadav
+17849,6122.0,Jhapa,Bhadrapur Municipality,6.0,Bhanuchok,2019-06-01,Fire,0,0,0,0,0,1,20000000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Trishakti Rice Mill
+17853,6126.0,Kailali,Gauriganga Municipality,11.0,,2019-06-02,Thunderbolt,0,0,0,0,0,1,,4,0,0,0,0,0,0,0,0,0,0,Nepal Police,Naresh Chaudhari
+17879,6152.0,Mahottari,Balwa Municipality,1.0,,2019-06-02,Fire,0,0,0,0,0,1,105000.0,0,0,0,1,0,0,0,0,0,0,0,"DAO, Mahottari",Ashok Kumar Yadav
+17896,6169.0,Khotang,Kepilasgadhi Rural Municipality,5.0,Dipsung,2019-06-04,Landslide,1,0,0,1,0,2,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Chandra BK
+17910,6183.0,Kailali,Dhangadhi Submetropolitan City,,,2019-06-06,Wind storm,2,0,0,2,0,7844,,84,0,0,0,0,0,0,0,0,0,0,"DAO, Kailali",Lahunu Dagaura
+17934,6207.0,Panchthar,Phidim Municipality,1.0,,2019-06-06,Fire,0,0,0,0,0,4,,0,0,0,2,2,0,0,0,0,0,0,Nepal Police,Metahai Pasal
+17962,6235.0,Parsa,Thori Rural Municipality,1.0,Rajinagar,2019-06-09,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Raj Kumar Bista Chhetri
+17963,6236.0,Parsa,Birgunj Metropolitan City,16.0,,2019-06-09,Wind storm,0,0,0,0,0,14,,6,0,0,14,0,0,0,0,0,0,0,Nepal Police,Om Prakash Saha
+18071,6344.0,Lamjung,Besishahar Municipality,8.0,FM Chowk,2019-06-20,Fire,0,0,0,0,0,1,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Narayan Suwal
+18083,6356.0,Makawanpur,Raksirang Rural Municipality,3.0,Aule,2019-06-21,Thunderbolt,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Jumuna Rai
+18084,6357.0,Makawanpur,Raksirang Rural Municipality,8.0,Maisirang,2019-06-21,Thunderbolt,0,0,0,0,0,1,,5,0,0,0,0,0,0,0,0,0,0,Nepal Police,Dilmaya Praja
+18119,6392.0,Dang,Rapti Rural Municipality,4.0,Maurighat,2019-06-25,Thunderbolt,3,0,0,3,0,4,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ramit Chaudhary
+18121,6394.0,Rupandehi,Siyari Rural Municipality,2.0,Bhagdari,2019-06-25,Thunderbolt,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Mamata Sahni
+18122,6395.0,Rupandehi,Siyari Rural Municipality,7.0,Gothhawa,2019-06-25,Thunderbolt,0,0,0,0,0,2,,2,0,0,0,0,0,0,0,0,0,0,Nepal Police,Bhola & Gautam Mallaha
+18123,6396.0,Rupandehi,Kanchan Rural Municipality,2.0,Basanta Phulbari,2019-06-25,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Nandaram Aryal
+18124,6397.0,Rupandehi,Sainamaina Municipality,7.0,Gauri,2019-06-25,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,n,Chandra Bdr Bk
+18125,6398.0,Rupandehi,Gaidahawa Rural Municipality,7.0,,2019-06-25,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Bhagwan Das Lodh
+18155,6428.0,Bara,Kolhabi Municipality,8.0,Nayabasti,2019-06-27,Fire,0,0,0,0,0,1,500000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Basant Lama
+18156,6429.0,Bara,Jeetpursimara Submetropolitan City,4.0,,2019-06-27,Fire,0,0,0,0,0,1,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Garment Factory
+18175,6448.0,Lamjung,Besishahar Municipality,8.0,sherachowk,2019-06-29,Fire,0,0,0,0,0,2,2700000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Restaurant Ma
+18191,6464.0,Makawanpur,Raksirang Rural Municipality,8.0,Maisirang,2019-07-01,Thunderbolt,0,0,0,0,0,1,,2,0,0,0,0,0,0,0,0,0,0,Nepal Police,Upasana Praja
+18198,6471.0,Dhading,Galchhi Rural Municipality,7.0,Galchhi,2019-07-02,Fire,0,0,0,0,0,2,5000000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Pasal Ma
+18210,6483.0,Tanahu,Shuklagandaki Municipality,7.0,Tunda,2019-07-03,Fire,0,0,0,0,0,1,2200000.0,0,0,0,0,0,0,0,0,0,0,2,Nepal Police,Ramesh Pande
+18218,6491.0,Mugu,Mugumkarmarong Rural Municipality,9.0,Chined,2019-07-04,Thunderbolt,0,0,0,0,0,4,,4,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ajay Budha
+18301,6574.0,Bardiya,Thakurbaba Municipality,4.0,Bargada,2019-07-10,Fire,0,0,0,0,0,1,200000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Hari Prasad Tharu
+18303,6576.0,Gulmi,Madane Rural Municipality,6.0,Dummare,2019-07-10,Fire,0,0,0,0,0,1,,0,0,0,1,0,0,0,0,0,0,1,Nepal Police,Bishnu Kunwar
+18308,6581.0,Makawanpur,Makawanpurgadhi Rural Municipality,2.0,Jitpur,2019-07-10,Landslide,0,0,0,0,0,1,,1,0,0,1,0,0,0,0,0,0,0,Nepal Police,Pramod Bhandari
+18311,6584.0,Makawanpur,Indrasarowar Rural Municipality,2.0,Chepare,2019-07-10,Landslide,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Road Ma
+18393,6666.0,Kathmandu,Dakshinkali Municipality,8.0,,2019-07-12,Landslide,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Akriti Mahat
+18396,6669.0,Kathmandu,Kathmandu Metropolitan City,,Kuleshwor,2019-07-12,Flood,0,0,0,0,1,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Unknown
+18397,6670.0,Lalitpur,Bagmati Rural Municipality,2.0,Baguwa,2019-07-12,Landslide,1,0,0,1,0,1,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Suraj Jimba Tamang
+18398,6671.0,Lalitpur,Bagmati Rural Municipality,7.0,Gimdhi,2019-07-12,Landslide,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sita Rana
+18399,6672.0,Lalitpur,Godawari Municipality,11.0,Pyanggaun,2019-07-12,Landslide,0,0,0,0,0,1,,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Buddha Tamang
+18401,6674.0,Makawanpur,Thaha Municipality,3.0,Damki,2019-07-12,Flood,0,1,0,1,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Santamaya Balami
+18405,6678.0,Makawanpur,Kailash Rural Municipality,10.0,Maryangkot,2019-07-12,Flood,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sanukancha Sunwar
+18408,6681.0,Makawanpur,Hetauda Submetropolitan City,6.0,Chaghada,2019-07-12,Flood,0,0,0,0,0,1,,0,0,0,1,0,0,0,0,0,0,1,Nepal Police,Tilak Prasad Lamichhane
+18409,6682.0,Dhading,Benighatrorang Rural Municipality,10.0,Baderemod,2019-07-12,Landslide,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Road Ma
+18411,6684.0,Dhading,Gajuri Rural Municipality,4.0,Daringal,2019-07-12,Landslide,0,1,0,1,0,1,,1,0,0,1,0,0,0,0,0,0,0,Nepal Police,Ashmita Tamang
+18422,6695.0,Sindhuli,Hariharpurgadhi Rural Municipality,3.0,,2019-07-12,Flood,0,0,0,0,0,4,,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Khanga Bdr Pakhrin
+18426,6699.0,Sindhuli,Dudhauli Municipality,4.0,Kahniya,2019-07-12,Flood,0,0,0,0,0,3,600000.0,0,0,0,0,3,0,0,0,0,0,0,Nepal Police,Mitralal Pahadi
+18427,6700.0,Sindhuli,Dudhauli Municipality,4.0,Dakaha,2019-07-12,Flood,2,0,0,2,2,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Karbon Kapari
+18444,6717.0,Parsa,Parsagadhi Municipality,1.0,,2019-07-12,Flood,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Nikhil Patel
+18446,6719.0,Rautahat,Gadhimai Municipality,6.0,Dhamapur,2019-07-12,Flood,0,0,0,0,1,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Aandandi Devi
+18447,6720.0,Mahottari,Balwa Municipality,2.0,Badeya,2019-07-12,Flood,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Hamid Meya
+18450,6723.0,Sunsari,Inaruwa Municipality,3.0,Musaritoll,2019-07-12,Flood,0,0,0,0,0,100,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ghar Duwan Ma
+18451,6724.0,Sunsari,Inaruwa Municipality,4.0,Ganeshapur,2019-07-12,Flood,0,0,0,0,0,25,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ghar Duwan Ma
+18452,6725.0,Morang,Ratuwamai Municipality,10.0,Mangalbare,2019-07-12,Flood,0,0,0,0,0,40,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ghar Duwan Ma
+18453,6726.0,Morang,Katahari Rural Municipality,4.0,,2019-07-12,Flood,0,0,0,0,1,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Shova Soren
+18454,6727.0,Jhapa,Kamal Rural Municipality,3.0,Baganechok,2019-07-12,Flood,0,0,0,0,0,16,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ghar Duwan Ma
+18455,6728.0,Jhapa,Damak Municipality,10.0,,2019-07-12,Flood,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Alija Neupane
+18456,6729.0,Jhapa,Bhadrapur Municipality,9.0,Pramainagar,2019-07-12,Flood,0,0,0,0,1,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sufal Hasda Satar
+18458,6731.0,Okhaldhunga,Chishankhugadhi Rural Municipality,4.0,Nawalpur,2019-07-12,Flood,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Pasangputi Sherpa
+18459,6732.0,Okhaldhunga,Khijidemba Rural Municipality,5.0,,2019-07-12,Flood,0,0,0,0,0,1,4000000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Dhanbir Tamang
+18467,6740.0,Khotang,Khotehang Rural Municipality,7.0,Khotangbazar,2019-07-12,Landslide,0,0,0,0,0,1,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Bimala Rai
+18468,6741.0,Khotang,Halesituwachung Municipality,5.0,Chhapdanda,2019-07-12,Landslide,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Road Ma
+18469,6742.0,Khotang,Diktel Rupakot Majhuwagadhi Municipality,7.0,,2019-07-12,Landslide,0,0,0,0,0,1,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Police Office Ma
+18470,6743.0,Khotang,Khotehang Rural Municipality,2.0,Bakpachang,2019-07-12,Landslide,2,1,0,3,0,1,,1,0,0,1,0,0,0,0,0,0,0,Nepal Police,Bishnu Kumar Rai
+18471,6744.0,Khotang,Diktel Rupakot Majhuwagadhi Municipality,,,2019-07-12,Landslide,0,0,0,0,0,36,13600000.0,0,0,0,18,18,0,0,0,0,0,8,DAO Khotang,
+18472,6745.0,Khotang,Halesituwachung Municipality,,,2019-07-12,Landslide,0,0,0,0,0,569,48950000.0,0,0,0,226,343,0,0,0,0,0,17,DAO Khotang,
+18473,6746.0,Khotang,Rawa Besi Rural Municipality,,,2019-07-12,Landslide,0,0,0,0,0,3,,0,0,0,0,3,0,0,0,0,0,0,DAO Khotang,
+18474,6747.0,Khotang,Diprung Chuichumma Rural Municipality,,,2019-07-12,Landslide,0,0,0,0,0,10,180500000.0,0,0,0,5,5,0,0,0,0,0,0,DAO Khotang,
+18475,6748.0,Khotang,Sakela Rural Municipality,,,2019-07-12,Landslide,0,0,0,0,0,112,,0,0,0,7,105,0,0,0,0,0,0,DAO Khotang,
+18476,6749.0,Khotang,Khotehang Rural Municipality,,,2019-07-12,Landslide,0,0,0,0,0,220,,0,0,0,59,161,0,0,0,0,0,0,DAO Khotang,
+18477,6750.0,Khotang,Barahapokhari Rural Municipality,,,2019-07-12,Landslide,0,0,0,0,0,60,15000000.0,0,0,0,48,12,0,0,0,0,0,0,DAO Khotang,
+18478,6751.0,Khotang,Aiselukharka Rural Municipality,,,2019-07-12,Landslide,0,0,0,0,0,10,,0,0,0,1,9,0,0,0,0,0,0,DAO Khotang,
+18479,6752.0,Khotang,Kepilasgadhi Rural Municipality,,,2019-07-12,Landslide,0,0,0,0,0,9,10000000.0,0,0,0,0,9,0,0,0,0,0,0,DAO Khotang,
+18485,6758.0,Ilam,Chulachuli Rural Municipality,1.0,Baghador,2019-07-12,Flood,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Manahang Lawati
+18487,6760.0,Ilam,Suryodaya Municipality,2.0,Bouddhadham,2019-07-12,Flood,0,0,0,0,0,1,200000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Som Kumar Rai
+18489,6762.0,Panchthar,Miklajung Rural Municipality,4.0,,2019-07-12,Flood,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Diyan Rai
+18491,6764.0,Dolpa,Mudkechula Rural Municipality,1.0,Kasil Khola,2019-07-13,Landslide,1,3,0,4,7,2,,0,0,0,3,0,0,0,0,0,0,0,Nepal Police,Dharmaraj Bohara
+18498,6771.0,Palpa,Tinau Rural Municipality,3.0,Siddhababa,2019-07-13,Landslide,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Dhan bdr Sunari
+18517,6790.0,Sunsari,Barahkshetra Municipality,1.0,Chatara,2019-07-13,Flood,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Krishna Karki
+18518,6791.0,Sunsari,Gadhi Rural Municipality,2.0,Chhapki,2019-07-13,Flood,0,0,0,0,0,1,,0,0,0,1,0,0,0,0,0,0,0,"DAO, Sunsari",
+18519,6792.0,Sunsari,Duhabi Municipality,4.0,Malhatti,2019-07-13,Flood,0,0,0,0,0,4,,0,0,0,4,0,0,0,0,0,0,0,"DAO, Sunsari",
+18520,6793.0,Sunsari,Duhabi Municipality,12.0,Golabari,2019-07-13,Flood,0,0,0,0,0,5,,0,0,0,0,4,0,0,0,0,0,0,"DAO, Sunsari",
+18522,6795.0,Jhapa,Shivasatakshi Municipality,5.0,Salmara,2019-07-13,Flood,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Saugat Chapagain
+18551,6824.0,Parsa,Birgunj Metropolitan City,25.0,Sirsiya,2019-07-14,Flood,0,0,0,0,1,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Durga Saha
+18590,6863.0,Makawanpur,Indrasarowar Rural Municipality,1.0,Markhu,2019-07-15,Landslide,0,2,0,2,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Kanchimaya & Babita Balami
+18591,6864.0,Makawanpur,Indrasarowar Rural Municipality,1.0,Chaumata,2019-07-15,Landslide,0,0,0,0,0,1,1000000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Hiralal Chising
+18592,6865.0,Makawanpur,Indrasarowar Rural Municipality,2.0,,2019-07-15,Landslide,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ba 4 Kha 0025
+18593,6866.0,Makawanpur,Bhimphedi Rural Municipality,8.0,Gagate,2019-07-15,Landslide,0,0,0,0,0,1,550000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Niraj Bholan
+18609,6882.0,Udayapur,Rautamai Rural Municipality,7.0,,2019-07-15,Flood,1,0,0,1,0,1,,2,0,0,0,0,0,0,0,0,0,0,Nepal Police,Arjun Tamang
+18675,6948.0,Sindhuli,Hariharpurgadhi Rural Municipality,2.0,Chainpur,2019-07-21,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Navraj BK
+18676,6949.0,Sindhuli,Kamalamai Municipality,8.0,Baghakshera,2019-07-21,Thunderbolt,0,0,0,0,0,1,,3,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sunmaya Ghalan
+18704,6977.0,Baglung,Galkot Municipality,8.0,Jyamire,2019-07-23,Landslide,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,1,,Sita Gautam
+18712,6985.0,Saptari,Surunga Municipality,3.0,,2019-07-23,Thunderbolt,1,0,0,1,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Harihar Chaudhary
+18713,6986.0,Saptari,Hanumannagarkankalini Municipality,11.0,,2019-07-23,Thunderbolt,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Shivsati Devi Pandit
+18714,6987.0,Saptari,Tilathikoiladi Rural Municipality,7.0,,2019-07-23,Thunderbolt,0,0,0,0,0,2,,2,0,0,0,0,0,0,0,0,0,0,Nepal Police,Mundrika Devi Mandal
+18715,6988.0,Saptari,Tilathikoiladi Rural Municipality,1.0,,2019-07-23,Thunderbolt,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Punam yadav
+18716,6989.0,Saptari,Dakneshwori Municipality,7.0,lalitpurtoll,2019-07-23,Thunderbolt,0,0,0,0,0,2,,3,0,0,0,0,0,0,0,0,0,0,Nepal Police,Dipendra Saha
+18745,7018.0,Lamjung,Dordi Rural Municipality,6.0,,2019-07-24,Flood,6,0,0,6,4,18,,8,0,0,0,0,0,0,0,0,0,0,Nepal Police,Ramesh Budha
+18786,7059.0,Dolakha,Gaurishankar Rural Municipality,7.0,Susingtar,2019-07-26,Landslide,0,0,0,0,0,2,7200000.0,0,0,0,1,0,0,0,0,0,5,1,Nepal Police,Rajendra Thami
+18807,7080.0,Rasuwa,Gosaikunda Rural Municipality,2.0,Timure,2019-07-27,Landslide,2,0,0,2,0,9,,7,0,0,0,0,0,0,0,0,0,0,Nepal Police,Wangchhu Sherpa
+18847,7120.0,Bajura,Gaumul Rural Municipality,6.0,Basala Shantitol,2019-08-01,Landslide,0,2,0,2,0,1,,5,0,0,1,0,0,0,0,0,0,0,Nepal Police,Niruta Chdara
+18906,7179.0,Morang,Belbari Municipality,11.0,,2019-08-06,Fire,0,0,0,0,0,3,1600000.0,0,0,0,3,0,0,0,0,0,0,0,Nepal Police,Sujan Rai
+18911,7184.0,Kathmandu,Kathmandu Metropolitan City,3.0,Baluwatar,2019-08-07,Fire,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Subisu Office Ma
+18925,7198.0,Rautahat,Gadhimai Municipality,4.0,Sundarpur,2019-08-08,Fire,0,0,0,0,0,2,2974000.0,1,0,0,2,0,0,0,0,0,0,0,Nepal Police,Upreti Yadav
+19002,7275.0,Mugu,Chhayanathrara Municipality,6.0,Balai,2019-08-17,Flood,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Hydropower Ma
+19050,7323.0,Parbat,Kushma Municipality,2.0,Khurkot,2019-08-21,Landslide,1,0,0,1,0,1,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Rem Bahadur Chalise
+19053,7326.0,Dolakha,Kalinchowk Rural Municipality,2.0,Babare,2019-08-21,Fire,0,0,0,0,0,1,80000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Mankaji
+19079,7352.0,Bhojpur,Arun Rural Municipality,2.0,Macthung,2019-08-23,Fire,0,0,0,0,0,1,1286800.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Man Bdr Karki
+19086,7359.0,Dolakha,Tamakoshi Rural Municipality,3.0,Japhe,2019-08-24,Landslide,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Road Ma
+19094,7367.0,Bajhang,Kedarasyu Rural Municipality,8.0,,2019-08-26,Landslide,0,1,0,1,0,1,,2,0,0,1,0,0,0,0,0,0,0,Nepal Police,Belu Joshi
+19103,7376.0,Ramechhap,Umakunda Rural Municipality,4.0,Tawordada,2019-08-26,Thunderbolt,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sang Maya Tamang
+19127,7400.0,Makawanpur,Makawanpurgadhi Rural Municipality,2.0,Talche,2019-08-28,Thunderbolt,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Suntali BK
+19130,7403.0,Jumla,Tila Rural Municipality,6.0,Bhujawada,2019-08-29,Thunderbolt,0,0,0,0,0,9,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Lal Bdr Raut
+19132,7405.0,Bhaktapur,Madhyapurthimi Municipality,4.0,Kamerotar,2019-08-29,Fire,0,0,0,0,0,1,100000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Tara Bdr Khadka
+19165,7438.0,Bhojpur,Salpasilichho Rural Municipality,6.0,Thumalung,2019-09-01,Landslide,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Man Bdr Bista
+19176,7449.0,Makawanpur,Raksirang Rural Municipality,1.0,Sanobhawar,2019-09-03,Thunderbolt,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Binamaya Thing
+19241,7514.0,Jajarkot,Chhedagad Municipality,6.0,Badadhunga,2019-09-11,Landslide,1,0,0,1,0,2,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Khadak Bahadur Rawat
+19254,7527.0,Solukhumbu,Khumbupasanglhamu Rural Municipality,2.0,Surke,2019-09-11,Fire,0,0,0,0,0,1,5000000.0,1,0,0,1,0,0,0,0,0,0,0,Nepal Police,Roman Rai
+19274,7547.0,Palpa,Tinau Rural Municipality,3.0,Hedbaksa,2019-09-13,Landslide,1,0,0,1,0,5,,4,0,0,0,0,0,0,0,0,0,0,Nepal Police,Kamal Pariyar
+19372,7645.0,Myagdi,Beni Municipality,2.0,Bagarphant,2019-09-22,Flood,0,1,0,1,1,2,,0,0,0,2,0,0,0,0,0,0,0,Nepal Police,Ansuka pariyar
+19373,7646.0,Bhaktapur,Suryabinayak Municipality,2.0,Balkot,2019-09-22,Fire,0,0,0,0,0,2,2620000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Cotton Industry
+19375,7648.0,Parsa,Bahudarmai Municipality,2.0,Bairiyabirta,2019-09-22,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Madhab Ram
+19528,7801.0,Sarlahi,Malangwa Municipality,9.0,Krisnmati,2019-10-11,Fire,0,0,0,0,0,1,200000.0,0,0,0,0,0,0,0,0,0,0,0,,Kirana Pasal Ma
+19535,7808.0,Parsa,Birgunj Metropolitan City,10.0,,2019-10-12,Fire,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Milliner Water Industry
+19536,7809.0,Parbat,Bihadi Rural Municipality,1.0,Barthabasti,2019-10-13,Fire,0,0,0,0,0,1,450000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Baikuntha K.C.
+19540,7813.0,Jhapa,Damak Municipality,3.0,Belgangi,2019-10-13,Fire,0,0,0,0,0,9,2850000.0,0,0,0,9,0,0,0,0,0,0,0,Nepal Police,Bhim Bdr Rai
+19552,7825.0,Saptari,Saptakoshi Municipality,1.0,Halesitol,2019-10-15,Fire,0,0,0,0,0,1,500000.0,1,0,0,0,1,0,0,0,0,0,0,Nepal Police,Dilli Bdr Basnet
+19559,7832.0,Sarlahi,Malangwa Municipality,6.0,,2019-10-16,Fire,0,0,0,0,0,2,353000.0,0,0,0,0,0,0,0,0,0,0,2,Nepal Police,Ram Babu Ray
+19598,7871.0,Banke,Nepalgunj Submetropolitan City,11.0,BP Chok,2019-10-24,Fire,0,0,0,0,0,3,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Cotton Store Ma
+19654,7927.0,Kathmandu,Kathmandu Metropolitan City,31.0,Aaloknagar,2019-10-29,Fire,0,0,0,0,0,1,20000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Umesh Dhakal
+19655,7928.0,Kathmandu,Kathmandu Metropolitan City,13.0,Tankeswor,2019-10-29,Fire,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Dhan Maya Shrestha
+19658,7931.0,Saptari,Rajbiraj Municipality,6.0,Himalaya Tol,2019-10-29,Fire,0,0,0,0,0,1,35000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Shibes Shing
+19681,7954.0,Siraha,Golbazar Municipality,4.0,,2019-11-01,Fire,0,0,0,0,0,1,3700000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Cosmetic Shop Ma
+19718,7991.0,Kaski,Pokharalekhnath Metropolitan City,27.0,Talchok,2019-11-07,Fire,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Lekcity Mini Market Ma
+19725,7998.0,Jumla,Chandannath Municipality,5.0,Khalanga,2019-11-09,Fire,0,0,0,0,0,2,6079300.0,0,0,0,1,1,0,0,0,0,0,0,Nepal Police,Navraj Shrestha
+19797,8070.0,Kathmandu,Kathmandu Metropolitan City,4.0,Chandol,2019-11-19,Fire,0,0,0,0,0,1,600000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Pan Pasal Ma
+19798,8071.0,Kathmandu,Tokha Municipality,9.0,Myadichok,2019-11-19,Fire,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Mo.Sa.Ma
+19812,8085.0,Udayapur,Triyuga Municipality,13.0,Ratapani,2019-11-21,Fire,1,0,0,1,0,2,3200000.0,0,0,0,2,0,0,0,0,0,0,1,Nepal Police,Chandra Bdr Rai
+19836,8109.0,Kailali,Dhangadhi Submetropolitan City,10.0,,2019-11-26,Fire,0,0,0,0,0,1,150000.0,0,0,0,0,0,0,0,0,0,0,1,Nepal Police,Dharmu Rana
+19837,8110.0,Kailali,Dhangadhi Submetropolitan City,7.0,,2019-11-26,Fire,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Subdhara Singh
+19885,8158.0,Panchthar,Phalelung Rural Municipality,4.0,Memeng,2019-12-02,Fire,0,1,0,1,0,1,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Tankarani Thamsuhang
+19905,8178.0,Tanahu,Bandipur Rural Municipality,4.0,Dumre,2019-12-05,Fire,0,0,0,0,0,1,1000000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Purna Bahadur Manandhar
+19919,8192.0,Kathmandu,Kathmandu Metropolitan City,9.0,Old Baneshwor,2019-12-06,Fire,0,0,0,0,0,1,500000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Kumar Shrestha
+19944,8217.0,Morang,Biratnagar Metropolitan City,2.0,Sanihat Chowk,2019-12-08,Fire,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Jaya Prasad Dahal
+19955,8228.0,Ilam,Suryodaya Municipality,5.0,Antudanda,2019-12-09,Fire,0,0,0,0,0,1,2500000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Manbir Tamang
+19956,8229.0,Ilam,Mai Municipality,6.0,Pasase,2019-12-09,Fire,0,0,0,0,0,2,925000.0,0,0,0,1,1,0,0,0,0,0,0,Nepal Police,Ganesh Baraili
+19971,8244.0,Kathmandu,Kathmandu Metropolitan City,22.0,Sundhara,2019-12-11,Fire,0,0,0,0,0,6,500000.0,5,0,0,0,1,0,0,0,0,0,0,Nepal Police,Restaurant Ma
+19975,8248.0,Kathmandu,Chandragiri Municipality,15.0,Dhungeadda,2019-12-12,Fire,0,0,0,0,0,3,3580000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Pasal Ma
+19988,8261.0,Gorkha,Bhimsenthapa Rural Municipality,5.0,Baguwa,2019-12-13,Fire,0,0,0,0,0,1,1300000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Jhanda Prasad Dhakal
+20044,8317.0,Lalitpur,Lalitpur Metropolitan City,10.0,Jwagal,2019-12-20,Fire,0,0,0,0,0,1,37000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Room Ma
+20045,8318.0,Lalitpur,Mahankal Rural Municipality,1.0,Naman,2019-12-20,Fire,0,0,0,0,0,1,210000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Anil Thokar
+20046,8319.0,Chitawan,Rapti Municipality,6.0,Pampha Khola,2019-12-20,Fire,0,0,0,0,0,1,20000000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Sha Mil Ma
+20063,8336.0,Bara,Simraungadh Municipality,11.0,Laxminiya,2019-12-23,Fire,0,0,0,0,0,1,600000.0,0,0,0,0,0,0,0,0,0,0,1,Nepal Police,Shambhu Bhagat Mali
+20075,8348.0,Parsa,Chhipaharmai Rural Municipality,1.0,Mijapur,2019-12-24,Fire,0,0,0,0,0,1,500000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Sanjit Mahato Koiri
+20076,8349.0,Parsa,Birgunj Metropolitan City,18.0,,2019-12-24,Fire,0,0,0,0,0,1,14000000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Apex Contraction Ma
+20077,8350.0,Parsa,Pokhariya Municipality,2.0,,2019-12-24,Fire,0,0,0,0,0,1,20000.0,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Rahid Miya
+20078,8351.0,Parsa,Kalikamai Rural Municipality,3.0,Hariharpur,2019-12-24,Fire,0,0,0,0,0,1,300000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Radhe Shyam
+20089,8362.0,Sarlahi,Ishworpur Municipality,6.0,Bailbas,2019-12-25,Fire,0,0,0,0,0,4,2100000.0,0,0,0,1,1,0,0,0,0,0,0,Nepal Police,Hakim Miya
+20090,8363.0,Sarlahi,Barhathwa Municipality,17.0,Kororiya,2019-12-25,Fire,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Rajmati Devi Shah
+20091,8364.0,Sarlahi,Bishnu Rural Municipality,1.0,Balwa,2019-12-25,Fire,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sarasoti Paswan
