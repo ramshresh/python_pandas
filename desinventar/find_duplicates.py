@@ -13,6 +13,20 @@ des_types = ['Fire', 'Epidemic', 'Cold Wave', 'Accident', 'Thunderstorm', 'Fores
  'Avalanche' ,'Earthquake', 'Rains', 'Boat Capsize', 'Hailstorm', 'Snow Storm',
  'Explosion', 'Storm', 'Heat Wave']
 """
+
+"""
+Remaining To be matched from DRR
+['Shyanja', 'Nawalparasi (Bardghat Susta East)', 'Shankhuwasabha', 'Sindhupalchowk', 'Rukum', 'Rukum East', 'Kavrepalanchowk', 'Achhaam', 'Rukum West', 'Nawalparasi (Bardghat Susta West)', 'Surkhet', nan]
+Remaining To be matched from DES
+['SANKHUWASABHA', 'RUKUM_W', 'RUKUM_E', 'SINDHUPALCHOK', 'SYANGJA', 'NAWALPARASI_E', 'ACHHAM', 'NAWALPARASI_W', 'KABHREPALANCHOK']
+
+S.No.,	drr_id,	District,	VDC/Municipality,	Ward No.,	Incident Place,	Incident Date,	Incident,
+
+11858,	131,	Rukum,	Others,		Uttarganga-8,	12/01/2018,	Fire
+to
+11858,	131,	Rukum East,	Putha Uttarganga,	8,	Uttarganga-8,	12/01/2018,	Fire
+"""
+
 def drr2des_EventType(drr_incident):
     dict_drr2des = {
         "Thunderbolt": "Thunderstorm",
@@ -35,6 +49,23 @@ def drr2des_EventType(drr_incident):
     if drr_incident in dict_drr2des.keys():
         return dict_drr2des[drr_incident]
     return None
+
+def drr2des_District(drr_district):
+    dict_drr2des = {
+        "Achhaam":"ACHHAM",
+        "Kavrepalanchowk":"KABHREPALANCHOK",
+        "Nawalparasi (Bardghat Susta East)": "NAWALPARASI_E",
+        "Nawalparasi (Bardghat Susta West)":"NAWALPARASI_W", 
+        "Rukum East":"RUKUM_E",
+        "Rukum West":"RUKUM_W",
+        "Sindhupalchowk":"SINDHUPALCHOK",
+        "Shankhuwasabha":"SANKHUWASABHA",
+        "Shyanja": "SYANGJA",
+        "Surkhet":"SURKHET"
+        }
+    if drr_district in dict_drr2des.keys():
+        return dict_drr2des[drr_district]
+    return drr_district
 
 
 excel_file_drr = r"C:\learn2code\desinventar\DRR-Portal 7Jan2019.xlsx"
@@ -70,7 +101,8 @@ for index, row  in drr.iterrows():
     try:
         datetimeObj = datetime.strptime(str(row['Incident Date']),'%Y-%m-%d %H:%M:%S')
         df_des = des[
-        (des['District'].str.contains(row['District'].upper()))
+        (des['District'].str.contains(drr2des_District(row['District']).upper()))
+        #(des['District'].str.contains(row['District'].upper()))
         &(des['Event Date']==str(datetimeObj.date()))
         &(des['Event Type'] == drr2des_EventType(row['Incident']))
         ]
