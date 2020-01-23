@@ -1,0 +1,42 @@
+S.No.,drr_id,District,VDC/Municipality,Ward No.,Incident Place,Incident Date,Incident,Death Male,Death Female,Death Unknown,Total Death,Missing People,Affected Family,Estimated Loss,Injured,Govt. Houses Fully Damaged,Govt. Houses Partially Damaged,Private House Fully Damaged,Private House Partially Damaged,Displaced Male(N/A),Displaced Female(N/A),Property Loss,No. of Displaced Family,Cattles Loss,Displaced Shed,Source,Remarks
+11963,236,Shankhuwasabha,Chainpur Municipality,11.0,,2018-01-21,Fire,0,0,0,0,0,2,1235000.0,0,0,0,2,0,0,0,0,0,2,2,Nepal Police,Govinda Rai
+11996,269,Shankhuwasabha,Panchkhapan Municipality,1.0,,2018-01-24,Fire,0,0,0,0,0,1,650000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Santosh Limbhu
+11997,270,Shankhuwasabha,Chichila Rural Municipality,2.0,,2018-01-24,Fire,0,0,0,0,0,1,900000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Sagun Bdr Rai
+12186,459,Sindhupalchowk,Chautarasangachowkgadhi Municipality,,,2018-02-17,Fire,0,0,0,0,0,1,9000000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,World Vision Office
+12323,596,Sindhupalchowk,Sunkoshi Rural Municipality,7.0,,2018-03-06,Fire,1,0,0,1,0,1,50000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Resham Sarki
+12726,999,Achhaam,Chaurpati Rural Municipality,3.0,,2018-04-07,Thunderbolt,1,0,0,1,0,1,,1,0,0,0,0,0,0,0,0,6,0,Nepal Police,Aayus Kami
+13532,1805,Shankhuwasabha,Makalu Rural Municipality,,,2018-06-15,Landslide,0,0,0,0,0,4,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Pradhip Sahi
+13558,1831,Shyanja,Harinas Rural Municipality,,,2018-06-18,Landslide,0,0,0,0,0,1,125000.0,0,0,0,0,0,0,0,0,0,1,1,Nepal Police,Bhim Bdr. Thapa
+13668,1941,Nawalparasi (Bardghat Susta West),Bardghat Municipality,3.0,,2018-07-02,Flood,0,0,0,0,0,42,,0,0,0,0,42,0,0,0,0,0,0,Nepal Police,Dayaram Musahar
+13669,1942,Nawalparasi (Bardghat Susta West),Sarawal Rural Municipality,5.0,,2018-07-02,Flood,0,0,0,0,0,53,,0,0,0,2,51,0,0,0,0,0,0,Nepal Police,
+13670,1943,Nawalparasi (Bardghat Susta West),Sarawal Rural Municipality,7.0,,2018-07-02,Flood,0,0,0,0,0,40,,0,0,0,0,40,0,0,0,0,0,0,Nepal Police,
+13725,1998,Nawalparasi (Bardghat Susta West),Sunwal Municipality,10.0,,2018-07-08,Thunderbolt,1,1,0,2,0,2,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Yam Kumar Mahato
+14055,2328,Kavrepalanchowk,Mandandeupur Municipality,10.0,,2018-08-08,Landslide,1,0,0,1,0,2,,0,0,0,2,0,0,0,0,0,4,0,Nepal Police,Dipak Tamang
+14234,2507,Sindhupalchowk,Bahrabise Municipality,3.0,,2018-08-18,Flood,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Bridge
+14235,2508,Sindhupalchowk,Bahrabise Municipality,3.0,,2018-08-18,Flood,0,0,0,0,0,1,300000.0,0,0,0,1,25,0,0,0,0,0,0,Nepal Police,Pema Dolma Tamang
+14794,3067,Kavrepalanchowk,Panchkhal Municipality,6.0,,2018-10-23,Fire,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Bus
+14795,3068,Kavrepalanchowk,Roshi Rural Municipality,6.0,,2018-10-23,Fire,0,0,0,0,0,1,1200000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Rohit Tamang
+14835,3108,Nawalparasi (Bardghat Susta West),Susta Rural Municipality,2.0,,2018-10-27,Fire,0,0,0,0,0,1,1000000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Canal Centre English School
+14836,3109,Nawalparasi (Bardghat Susta West),Sarawal Rural Municipality,4.0,,2018-10-27,Fire,0,0,0,0,0,1,268500.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Hirdish Dhobi
+15974,4247,Achhaam,Panchadewalbinayak Municipality,7.0,,2019-01-23,Thunderbolt,0,1,0,1,0,4,,16,0,0,0,0,0,0,0,0,1,0,DAO Achham,Dhana Rawal
+15978,4251,Rukum West,Musikot Municipality,3.0,,2019-01-23,Thunderbolt,0,0,0,0,0,1,,6,0,0,0,0,0,0,0,0,0,0,Nepal Police,Kamala Khadka
+16881,5154,Achhaam,Ramaroshan Rural Municipality,5.0,,2019-04-01,Thunderbolt,0,0,0,0,0,1,,4,0,0,0,0,0,0,0,0,1,0,Nepal Police,Dinesh Damai
+16882,5155,Achhaam,Panchadewalbinayak Municipality,9.0,,2019-04-01,Thunderbolt,0,0,0,0,0,5,,11,0,0,0,0,0,0,0,0,0,0,Nepal Police,Jagat Bohara
+16905,5178,Shankhuwasabha,Savapokhari Rural Municipality,6.0,,2019-04-02,Fire,0,0,0,0,0,1,700000.0,0,0,0,0,1,0,0,0,0,0,0,Nepal Police,Prime Commercial Bank
+16906,5179,Shankhuwasabha,Panchkhapan Municipality,9.0,,2019-04-02,Thunderbolt,0,2,0,2,0,2,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sita BK & Sukumaya Limbu
+17583,5856,Achhaam,Panchadewalbinayak Municipality,7.0,Bansain,2019-05-16,Thunderbolt,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Pahilu Kami
+17584,5857,Achhaam,Panchadewalbinayak Municipality,2.0,,2019-05-16,Thunderbolt,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Sima Dhami
+17668,5941,Nawalparasi (Bardghat Susta East),Devchuli Municipality,,,2019-05-21,Wind storm,0,0,0,0,0,401,13033500.0,0,0,0,32,369,0,0,0,0,0,0,Nepal Police,
+17683,5956,Shyanja,Kaligandaki Rural Municipality,1.0,Daunne,2019-05-22,Fire,0,0,0,0,0,3,1500000.0,0,0,0,1,1,0,0,0,0,0,2,Nepal Police,Ram Kumari Somai
+17716,5989,Achhaam,Dhakari Rural Municipality,4.0,,2019-05-24,Fire,0,0,0,0,0,4,,0,0,0,7,0,0,0,0,0,0,7,Nepal Police,Bhakta Bdr Budha
+17874,6147,Nawalparasi (Bardghat Susta East),Binayitribeni Rural Municipality,6.0,,2019-06-02,Wind storm,0,1,0,1,0,80,,0,0,0,0,80,0,0,0,0,0,0,Nepal Police,Anjali Yadav
+18386,6659,Rukum West,Aathbiskot Municipality,5.0,,2019-07-12,Landslide,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,DAO Rukum West,Kaushila Basnet
+18416,6689,Kavrepalanchowk,Banepa Municipality,3.0,Chunatal,2019-07-12,Landslide,0,2,0,2,0,1,,2,0,0,1,0,0,0,0,0,0,0,Nepal Police,Goma Dangal
+18417,6690,Kavrepalanchowk,Dhulikhel Municipality,11.0,Kavrebhangyang,2019-07-12,Landslide,0,0,0,0,0,1,30000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Narendra Dhakal
+18419,6692,Kavrepalanchowk,Roshi Rural Municipality,11.0,Kartiz,2019-07-12,Landslide,0,0,0,0,0,1,,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Rudralal Shrestha
+18420,6693,Kavrepalanchowk,Roshi Rural Municipality,11.0,Mamti,2019-07-12,Landslide,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Krishna Devi Rayamajhi
+19128,7401,Kavrepalanchowk,Roshi Rural Municipality,5.0,Pekta,2019-08-28,Thunderbolt,1,0,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Lal Bdr BK
+19149,7422,Rukum West,Aathbiskot Municipality,10.0,Gharikhola,2019-09-01,Landslide,0,1,0,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Kamala KC
+19242,7515,Rukum West,Musikot Municipality,10.0,Chun,2019-09-11,Landslide,0,2,0,2,0,2,,0,0,0,0,0,0,0,0,0,0,0,Nepal Police,Dilmaya BK
+19387,7660,Shankhuwasabha,Makalu Rural Municipality,5.0,Dobhan,2019-09-23,Landslide,0,0,0,0,0,1,,1,0,0,0,0,0,0,0,0,0,0,Nepal Police,Arjun sing
+19388,7661,Shankhuwasabha,Chainpur Municipality,7.0,Bhandarimod,2019-09-23,Landslide,0,0,0,0,0,1,1000000.0,0,0,0,1,0,0,0,0,0,0,0,Nepal Police,Bhagawati Bhandari
