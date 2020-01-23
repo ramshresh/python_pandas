@@ -1,0 +1,9 @@
+S.No.,	drr_id,	District,	VDC/Municipality,	Ward No.,	Incident Place,	Incident Date,	Incident,
+
+11858,	131,	Rukum,	Others,		Uttarganga-8,	12/01/2018,	Fire
+to
+11858,	131,	Rukum East,	Putha Uttarganga,	8,	Uttarganga-8,	12/01/2018,	Fire
+
+
+
+
