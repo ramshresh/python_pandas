@@ -54,5 +54,5 @@ print (matched)
 print ("Not Matched")
 print (not_matched)
 print ("Remaining To be matched")
-print ([x for x in drr_types if x not in matched])
+print ([x for x in drr_types if x.upper() not in matched])
 
